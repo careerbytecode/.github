@@ -12,11 +12,49 @@
 
 > **“We don’t just teach. We transform learners into confident, job-ready professionals — through real-time, project-based learning and global visibility.”**
 
-**CareerByteCode** is one of the **world’s fastest-growing tech ecosystems**, empowering **241,000+ IT professionals across 102+ countries. 🌍**  
-Headquartered in **Belgium**, we drive **consulting, upskilling, and digital transformation** across **Europe, Asia, and North America**.
+**CareerByteCode** is one of the **world’s fastest-growing tech ecosystems**, empowering **241,000+ IT professionals across 102+ countries 🌍.**  
+Headquartered in **Belgium**, we lead **consulting, upskilling, and digital transformation** across **Europe, Asia, and North America**.
 
-We’re not just an education brand — we’re a **career acceleration movement**.  
-We help professionals **learn, build, and lead** through **hands-on cloud, DevOps, and AI experiences.**
+We’re not just an education brand — we’re a **career acceleration movement** that helps professionals **learn, build, and lead** through **hands-on Cloud, DevOps, and AI experiences.**
+
+---
+
+## 🌐 Connect With Us
+
+<p align="center">
+  <a href="https://linkedin.com/company/careerbytecode" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" title="LinkedIn"/>
+  </a>
+  <a href="https://github.com/careerbytecode" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/>
+  </a>
+  <a href="https://medium.com/careerbytecode" target="_blank">
+    <img src="https://skillicons.dev/icons?i=medium" width="50" title="Medium"/>
+  </a>
+  <a href="https://dev.to/careerbytecode" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" width="50" title="Dev.to"/>
+  </a>
+  <a href="https://careerbytecode.hashnode.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hashnode" width="50" title="Hashnode"/>
+  </a>
+  <a href="https://careerbytecode.blogspot.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/blogger.png" width="50" title="Blogger"/>
+  </a>
+  <a href="https://youtube.com/@CareerByteCode" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="50" title="YouTube"/>
+  </a>
+  <a href="https://x.com/CareerByteCode" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v2.png" width="45" title="X (Twitter)"/>
+  </a>
+  <a href="https://careerbytecode.substack.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/substack.png" width="50" title="Substack"/>
+  </a>
+</p>
+
+<p align="center">
+  📧 **Email:** [careerbytec@gmail.com](mailto:careerbytec@gmail.com)  
+  🌐 **Website:** [careerbytecode.substack.com](https://careerbytecode.substack.com)
+</p>
 
 ---
 
@@ -104,47 +142,31 @@ That’s the **CareerByteCode Way.**
 
 ---
 
-## 📊 GitHub Insights (Working + Updated)
+## 📊 GitHub Insights (Live Overview)
 
 <p align="center">
-  <a href="https://github.com/careerbytecode">
+  <a href="https://github.com/cbcstudent">
     <img src="https://github-readme-stats.vercel.app/api?username=cbcstudent&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="48%" alt="CareerByteCode GitHub Stats"/>
   </a>
- <a href="https://github.com/cbcstudent">
-  <img src="https://git-hub-streak-stats.vercel.app?user=cbcstudent&theme=tokyonight&hide_border=true" width="48%" alt="CBC Student GitHub Streak"/>
-</a>
-
-
+  <a href="https://github.com/cbcstudent">
+    <img src="https://streak-stats.demolab.com?user=cbcstudent&theme=tokyonight&hide_border=true" width="48%" alt="CBC Student GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/careerbytecode">
+  <a href="https://github.com/cbcstudent">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cbcstudent&theme=react-dark&hide_border=true&area=true" width="95%" alt="CareerByteCode Contribution Graph"/>
   </a>
 </p>
 
 ---
 
-## 🌐 Connect With Us
-
-| 🌍 Platform | 🔗 URL |
-|-------------|--------|
-| 🧑‍💻 **GitHub** | [github.com/careerbytecode](https://github.com/careerbytecode) |
-| 💼 **LinkedIn** | [linkedin.com/company/careerbytecode](https://linkedin.com/company/careerbytecode) |
-| 📝 **Medium** | [medium.com/careerbytecode](https://medium.com/careerbytecode) |
-| 💻 **Dev.to** | [dev.to/careerbytecode](https://dev.to/careerbytecode) |
-| 🧠 **Hashnode** | [careerbytecode.hashnode.dev](https://careerbytecode.hashnode.dev) |
-| 📘 **Blogger** | [careerbytecode.blogspot.com](https://careerbytecode.blogspot.com) |
-| 🐦 **X (Twitter)** | [x.com/CareerByteCode](https://x.com/CareerByteCode) |
-| 🎥 **YouTube** | [youtube.com/@CareerByteCode](https://youtube.com/@CareerByteCode) |
-| 🌐 **Website** | [careerbytecode.substack.com](https://careerbytecode.substack.com) |
-
----
-
 ## 💬 Stay Connected
 
-📧 **Email:** [careerbytec@gmail.com](mailto:careerbytec@gmail.com)  
-🌍 **Website:** [https://careerbytecode.substack.com](https://careerbytecode.substack.com)
+<p align="center">
+  📧 <strong>Email:</strong> <a href="mailto:careerbytec@gmail.com">careerbytec@gmail.com</a>  
+  🌍 <strong>Website:</strong> <a href="https://careerbytecode.substack.com">careerbytecode.substack.com</a>  
+</p>
 
 ---
 
@@ -160,4 +182,3 @@ That’s the **CareerByteCode Way.**
 `#CareerByteCode` `#DevOps` `#CloudComputing` `#Azure` `#AWS` `#Kubernetes`  
 `#FullStackDevelopment` `#Leadership` `#Training` `#Consulting`  
 `#AI` `#GenAI` `#DataEngineering` `#CareerTransformation` `#TechLeadership`
-
