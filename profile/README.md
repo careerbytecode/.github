@@ -22,38 +22,35 @@ We’re not just an education brand — we’re a **career acceleration movement
 ## 🌐 Connect With Us
 
 <p align="center">
-  <a href="https://linkedin.com/company/careerbytecode" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" title="LinkedIn"/>
+  <a href="https://linkedin.com/company/careerbytecode">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-CareerByteCode-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/careerbytecode" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/>
+  <a href="https://medium.com/careerbytecode">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-@careerbytecode-00ab6c?logo=medium&logoColor=white" />
   </a>
-  <a href="https://medium.com/careerbytecode" target="_blank">
-    <img src="https://skillicons.dev/icons?i=medium" width="50" title="Medium"/>
+  <a href="https://x.com/CareerByteCode">
+    <img alt="X" src="https://img.shields.io/badge/X-@CareerByteCode-1DA1F2?logo=x&logoColor=white" />
   </a>
-  <a href="https://dev.to/careerbytecode" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" width="50" title="Dev.to"/>
+  <a href="https://careerbytecode.hashnode.dev">
+    <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-@careerbytecode-2962FF?logo=hashnode&logoColor=white" />
   </a>
-  <a href="https://careerbytecode.hashnode.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hashnode" width="50" title="Hashnode"/>
+  <a href="https://github.com/careerbytecode">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-CareerByteCode-181717?logo=github&logoColor=white" />
   </a>
-  <a href="https://careerbytecode.blogspot.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/blogger.png" width="50" title="Blogger"/>
+  <a href="https://youtube.com/@CareerByteCode">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-@CareerByteCode-FF0000?logo=youtube&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@CareerByteCode" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="50" title="YouTube"/>
+  <a href="https://careerbytecode.substack.com">
+    <img alt="Substack" src="https://img.shields.io/badge/Substack-careerbytecode.substack.com-FF6719?logo=substack&logoColor=white" />
   </a>
-  <a href="https://x.com/CareerByteCode" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v2.png" width="45" title="X (Twitter)"/>
-  </a>
-  <a href="https://careerbytecode.substack.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/substack.png" width="50" title="Substack"/>
+  <a href="https://careerbytecode.blogspot.com">
+    <img alt="Blogger" src="https://img.shields.io/badge/Blogger-careerbytecode.blogspot.com-FF5722?logo=blogger&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  📧 **Email:** [careerbytec@gmail.com](mailto:careerbytec@gmail.com)  
-  🌐 **Website:** [careerbytecode.substack.com](https://careerbytecode.substack.com)
+  📧 <strong>Email:</strong> <a href="mailto:careerbytec@gmail.com">careerbytec@gmail.com</a>  
+  🌍 <strong>Website:</strong> <a href="https://careerbytecode.substack.com">careerbytecode.substack.com</a>
 </p>
 
 ---
@@ -61,12 +58,12 @@ We’re not just an education brand — we’re a **career acceleration movement
 ## 🌍 Why CareerByteCode Exists
 
 Even today, millions of students and IT professionals **struggle to gain real-time experience** in high-demand technologies like  
-**DevOps • Cloud • AI • GenAI • Security**  
+**DevOps • Cloud • AI • GenAI • Security.**
 
 Traditional training focuses on *theory* —  
-but companies hire for **problem-solving, real-world delivery, and confidence**.
+but companies hire for **problem-solving, real-world delivery, and confidence.**
 
-That’s exactly where **CareerByteCode** steps in.  
+That’s where **CareerByteCode** steps in.  
 We create a **mentor-driven ecosystem** where learners don’t just learn —  
 they **build, present, and lead** like professionals.
 
@@ -157,15 +154,6 @@ That’s the **CareerByteCode Way.**
   <a href="https://github.com/cbcstudent">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cbcstudent&theme=react-dark&hide_border=true&area=true" width="95%" alt="CareerByteCode Contribution Graph"/>
   </a>
-</p>
-
----
-
-## 💬 Stay Connected
-
-<p align="center">
-  📧 <strong>Email:</strong> <a href="mailto:careerbytec@gmail.com">careerbytec@gmail.com</a>  
-  🌍 <strong>Website:</strong> <a href="https://careerbytecode.substack.com">careerbytecode.substack.com</a>  
 </p>
 
 ---
