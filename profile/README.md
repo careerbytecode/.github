@@ -199,3 +199,79 @@ That’s the **CareerByteCode Way.**
   ✨ **#CareerByteCode — Where Mentors Build Leaders.** ✨  
 </p>
 
+
+
+---
+
+## 🧠 Our Global Mentors & Leaders
+
+> The heart of **CareerByteCode** lies in its exceptional mentors, architects, and leaders.  
+> Each member contributes through real-world expertise, continuous mentoring, and community empowerment — driving our global vision forward. 🌍
+
+---
+
+### ☁️ Cloud DevOps Enthusiasts
+
+These professionals design and deliver real-time DevOps projects, mentor learners in CI/CD, Kubernetes, and Infrastructure as Code, and lead the hands-on learning revolution.
+
+| | | |
+|:--:|:--:|:--:|
+| <img src="https://ui-avatars.com/api/?name=RISWAN+RAJA+A&background=0078FF&color=fff&size=150"/> <br> **RISWAN RAJA A** <br> 🔧 *DevOps Expert & CloudOps Engineer* <br> CI/CD, Terraform & Security specialist. [🔗 LinkedIn](https://www.linkedin.com/in/riswanrajacloud/) | <img src="https://ui-avatars.com/api/?name=GEETHA+S&background=0078FF&color=fff&size=150"/> <br> **Geetha S** <br> ☁️ *Azure Cloud Mentor* <br> IaC & Containerization specialist. [🔗 LinkedIn](https://www.linkedin.com/in/geethascloud/) | <img src="https://ui-avatars.com/api/?name=BAVITHRAN+M&background=0078FF&color=fff&size=150"/> <br> **Bavithran M** <br> 🏆 *Founder & Cloud Architect* <br> Leading 100+ DevOps projects globally. [🔗 LinkedIn](https://www.linkedin.com/in/bavicnative/) |
+| <img src="https://ui-avatars.com/api/?name=RANGARAJ+BALAKRISHNAN&background=0078FF&color=fff&size=150"/> <br> **Rangaraj Balakrishnan** <br> 🔒 *DevSecOps Architect* <br> 17+ yrs in Cloud, Automation & Security. [🔗 LinkedIn](https://www.linkedin.com/in/rajcloudx/) | <img src="https://ui-avatars.com/api/?name=SONALI+KURADE&background=0078FF&color=fff&size=150"/> <br> **Sonali Kurade** <br> 🚀 *Senior DevOps Engineer* <br> Leading community DevOps mentoring. [🔗 LinkedIn](https://www.linkedin.com/in/techopsbysonali/) | <img src="https://ui-avatars.com/api/?name=NIKITA&background=0078FF&color=fff&size=150"/> <br> **Nikita** <br> 💼 *Tech Evangelist* <br> Promoting DevOps culture on LinkedIn. [🔗 LinkedIn](https://www.linkedin.com/in/nikitaoncloud) |
+| <img src="https://ui-avatars.com/api/?name=SATHISH+KANNAN+R&background=0078FF&color=fff&size=150"/> <br> **Sathish Kannan R** <br> 🧠 *Cloud DevOps Engineer* <br> Mentor in CI/CD, Docker & Kubernetes. [🔗 LinkedIn](https://www.linkedin.com/in/sathisraki/) | <img src="https://ui-avatars.com/api/?name=JAFFER+ALI&background=0078FF&color=fff&size=150"/> <br> **Jaffer Ali** <br> ☁️ *Cloud Automation Expert* <br> AWS Infrastructure & DevOps trainer. [🔗 LinkedIn](https://www.linkedin.com/in/jaffercloudpro/) | <img src="https://ui-avatars.com/api/?name=RAGHAVENDRA+RAMESH&background=0078FF&color=fff&size=150"/> <br> **Raghavendra Ramesh** <br> 🔧 *Cloud Specialist* <br> Passionate in CI/CD and multi-cloud delivery. [🔗 LinkedIn](https://linkedin.com/in/raghavendracloud) |
+
+---
+
+### 🏗️ Cloud DevOps Solution Architects
+
+Architects designing enterprise-level automation, enabling organizations to scale DevOps pipelines, and mentoring professionals to transition from engineers to system thinkers.
+
+| | | |
+|:--:|:--:|:--:|
+| <img src="https://ui-avatars.com/api/?name=KARTHIK+SEKAR&background=0078FF&color=fff&size=150"/> <br> **Karthik Sekar** <br> 🧠 *Cloud & DevOps Solution Architect* <br> Strategic thinker bridging automation & architecture. [🔗 LinkedIn](https://www.linkedin.com/in/karthiksekars/) | <img src="https://ui-avatars.com/api/?name=ARUN+VAIDYANATHAN&background=0078FF&color=fff&size=150"/> <br> **Arun Vaidyanathan** <br> ☁️ *Cloud Solutions Mentor* <br> Specializing in migration & IaC frameworks. [🔗 LinkedIn](https://www.linkedin.com/in/arunvtechno/) | <img src="https://ui-avatars.com/api/?name=SUBBAREDDY+VUNDELA&background=0078FF&color=fff&size=150"/> <br> **Subbareddy (Venkata) Vundela** <br> 🧭 *DevOps Architect* <br> Expert in multi-environment deployments. [🔗 LinkedIn](https://www.linkedin.com/in/venkatbyte/) |
+
+---
+
+### 🤖 Python & AI Enthusiasts
+
+Leaders in Python and AI/ML who guide learners in data-driven automation, real-world AI applications, and Generative AI projects.
+
+| | | |
+|:--:|:--:|:--:|
+| <img src="https://ui-avatars.com/api/?name=RESHMA+S&background=0078FF&color=fff&size=150"/> <br> **Reshma S** <br> 🧠 *AI Mentor* <br> Connecting Python with AI for career-ready learners. [🔗 LinkedIn](https://www.linkedin.com/in/reshmawithai/) | <img src="https://ui-avatars.com/api/?name=LAVANYA+R&background=0078FF&color=fff&size=150"/> <br> **Lavanya R** <br> 🤖 *AI Research Mentor* <br> Data science evangelist & ML educator. [🔗 LinkedIn](https://www.linkedin.com/in/iamlavanyar/) | <img src="https://ui-avatars.com/api/?name=SIVARANJAN+A&background=0078FF&color=fff&size=150"/> <br> **Sivaranjan A** <br> 🔍 *AI Systems Developer* <br> Bridging AI models with cloud automation. [🔗 LinkedIn](https://www.linkedin.com/in/sivaaiexpert/) |
+
+---
+
+### 💻 Full Stack Developers
+
+Professionals building the CareerByteCode platform — front-end, back-end, and automation tools for learner success.
+
+| | | |
+|:--:|:--:|:--:|
+| <img src="https://ui-avatars.com/api/?name=SASI+REKHA+GOLLA&background=0078FF&color=fff&size=150"/> <br> **Sasi Rekha Golla** <br> 💻 *QA & Web Developer* <br> Full Stack mentor for automation frameworks. [🔗 LinkedIn](https://www.linkedin.com/in/testitwithsasi/) | <img src="https://ui-avatars.com/api/?name=NAVEEN+KUMAR+K&background=0078FF&color=fff&size=150"/> <br> **Naveen Kumar K** <br> 💻 *Full Stack Developer* <br> Expert in backend integrations & deployments. [🔗 LinkedIn](https://www.linkedin.com/in/naveencloud/) | <img src="https://ui-avatars.com/api/?name=TEJAS+LAMKHADE&background=0078FF&color=fff&size=150"/> <br> **Tejas Lamkhade** <br> 🧩 *Web Developer* <br> Builds core CareerByteCode front-end features. [🔗 LinkedIn](https://www.linkedin.com/in/tejaslamkhade/) |
+
+---
+
+### 👩‍💼 Co-Leaders
+
+Leaders who ensure training consistency, mentorship quality, and smooth learner experience across global regions.
+
+| | | |
+|:--:|:--:|:--:|
+| <img src="https://ui-avatars.com/api/?name=SIVA+SANKARI&background=0078FF&color=fff&size=150"/> <br> **Siva Sankari** <br> 🧭 *Training Division Co-Lead* <br> Driving strategy and global mentorship. [🔗 LinkedIn](https://www.linkedin.com/in/sankari-cloud) | <img src="https://ui-avatars.com/api/?name=MONISHA+GANGADHARESHWARA&background=0078FF&color=fff&size=150"/> <br> **Monisha Gangadhareshwara** <br> 💼 *Co-Leader & AI Mentor* <br> Leading Python AI training & branding initiatives. [🔗 LinkedIn](https://www.linkedin.com/in/learnwithmona/) | <img src="https://ui-avatars.com/api/?name=ANITHA&background=0078FF&color=fff&size=150"/> <br> **Anitha** <br> 💼 *Digital Transformation Mentor* <br> Empowering learners in digital innovation. [🔗 LinkedIn](https://www.linkedin.com/in/anithadigital) |
+
+---
+
+### 🧭 Career Coaches & Collaboration Leaders
+
+These leaders help professionals grow careers, lead franchise partnerships, and ensure the success of the CareerByteCode mission.
+
+| | | |
+|:--:|:--:|:--:|
+| <img src="https://ui-avatars.com/api/?name=SUBHASHREE+RK&background=0078FF&color=fff&size=150"/> <br> **Subhashree RK** <br> 🎯 *Career Coach & Franchise Leader* <br> Helping professionals shape their cloud careers. [🔗 LinkedIn](https://www.linkedin.com/in/subhamentor/) | <img src="https://ui-avatars.com/api/?name=FIZZA+SALEEM&background=0078FF&color=fff&size=150"/> <br> **Fizza Saleem** <br> 💬 *Career Growth Coach* <br> Empowering learners through interview guidance. [🔗 LinkedIn](https://www.linkedin.com/in/careerwithfizzasaleem/) | <img src="https://ui-avatars.com/api/?name=SONALI+KURADE&background=0078FF&color=fff&size=150"/> <br> **Sonali Kurade** <br> 💼 *Franchisee Collaboration Leader* <br> Leading regional partnerships & DevOps learning drives. [🔗 LinkedIn](https://www.linkedin.com/in/techopsbysonali/) |
+
+---
+
+<p align="center">
+  ✨ **#CareerByteCode — Where Mentors Build Leaders.** ✨  
+</p>
