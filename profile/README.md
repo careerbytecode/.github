@@ -170,3 +170,32 @@ That’s the **CareerByteCode Way.**
 `#CareerByteCode` `#DevOps` `#CloudComputing` `#Azure` `#AWS` `#Kubernetes`  
 `#FullStackDevelopment` `#Leadership` `#Training` `#Consulting`  
 `#AI` `#GenAI` `#DataEngineering` `#CareerTransformation` `#TechLeadership`
+
+
+---
+
+## 🧠 Our Global Mentors & Leaders
+
+> Meet the changemakers guiding the next generation of Cloud, DevOps, and AI professionals at **CareerByteCode**.  
+> Each mentor brings deep real-world experience, hands-on expertise, and a passion for transforming careers. 🌍
+
+| | | |
+|:--:|:--:|:--:|
+| <img src="https://i.ibb.co/1M3Tt6B/bavi.jpg" width="150" height="150" style="border-radius:50%;"/> <br> **Bavithran M** <br> 🏆 *Founder & Cloud Architect* <br> Expert in AWS, Azure & Kubernetes. Leading 100+ real-time DevOps projects globally. <br> [🔗 LinkedIn](https://linkedin.com/in/bavithranm) | <img src="https://i.ibb.co/0jpw5Fh/mentor1.jpg" width="150" height="150" style="border-radius:50%;"/> <br> **Janani Saravana** <br> ☁️ *Azure DevOps Consultant* <br> 3.5+ yrs experience in Azure, Kubernetes & CI/CD. Helping learners achieve cloud mastery. <br> [🔗 LinkedIn](https://linkedin.com/in/jananisaravana) | <img src="https://i.ibb.co/gZRt7h7/mentor2.jpg" width="150" height="150" style="border-radius:50%;"/> <br> **Ravi Pant** <br> 🌐 *GCP Infrastructure Lead* <br> 11+ yrs in Cloud Migration & GCP Infra. Mentoring teams in scalable automation. <br> [🔗 LinkedIn](https://linkedin.com/in/ravipant) |
+| <img src="https://i.ibb.co/V3jKSnH/mentor3.jpg" width="150" height="150" style="border-radius:50%;"/> <br> **Rangaraj Balakrishnan** <br> 🔒 *DevSecOps Architect* <br> 17+ yrs across AWS & Azure. Expert in security automation & CI/CD compliance. <br> [🔗 LinkedIn](https://linkedin.com/in/rangarajbalakrishnan) | <img src="https://i.ibb.co/sWZTXsV/mentor4.jpg" width="150" height="150" style="border-radius:50%;"/> <br> **Sonali Kurade** <br> 🚀 *Senior DevOps Engineer* <br> Passionate mentor helping professionals build real-time DevOps careers. <br> [🔗 LinkedIn](https://linkedin.com/in/sonalikurade) | <img src="https://i.ibb.co/RNPfw0p/mentor5.jpg" width="150" height="150" style="border-radius:50%;"/> <br> **Vibhu Sharma** <br> 🤖 *AI & Python Developer* <br> Transitioned from testing to AI. Specializes in ML pipelines & automation. <br> [🔗 LinkedIn](https://linkedin.com/in/vibhusharma) |
+| <img src="https://i.ibb.co/DtMMphG/mentor6.jpg" width="150" height="150" style="border-radius:50%;"/> <br> **Geetha S** <br> 🧩 *Azure Cloud Mentor* <br> Expert in Infrastructure as Code (IaC) and container orchestration. <br> [🔗 LinkedIn](https://linkedin.com/in/geethascloud) | <img src="https://i.ibb.co/TbMLbbW/mentor7.jpg" width="150" height="150" style="border-radius:50%;"/> <br> **Riswan Raja A** <br> ☁️ *CloudOps Engineer* <br> Skilled in CI/CD, Docker, Terraform & Cloud Security. Community contributor. <br> [🔗 LinkedIn](https://linkedin.com/in/riswanrajacloud) | <img src="https://i.ibb.co/txW4v7m/mentor8.jpg" width="150" height="150" style="border-radius:50%;"/> <br> **Nikita** <br> 💼 *Tech Evangelist* <br> Active promoter of DevOps culture & LinkedIn learning campaigns. <br> [🔗 LinkedIn](https://linkedin.com/in/nikitacloud) |
+
+---
+
+### 🏅 What Makes Our Mentors Stand Out
+- 🚀 **Real-time experience** across Cloud, DevOps, and AI technologies.  
+- 🧭 **Mentorship-driven growth**, helping 500+ learners every month.  
+- 🌍 **Community-first leadership**, enabling visibility through projects & presentations.  
+- 💡 **Collaborations with global partners** to deliver innovation-led training.
+
+---
+
+<p align="center">
+  ✨ **#CareerByteCode — Where Mentors Build Leaders.** ✨  
+</p>
+
