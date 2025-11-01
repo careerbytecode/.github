@@ -117,7 +117,7 @@ That’s the **CareerByteCode Way.**
 
 <p align="center">
   <a href="https://github.com/careerbytecode">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=careerbytecode&theme=react-dark&hide_border=true&area=true" width="95%" alt="CareerByteCode Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cbcstudent&theme=react-dark&hide_border=true&area=true" width="95%" alt="CareerByteCode Contribution Graph"/>
   </a>
 </p>
 
