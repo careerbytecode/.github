@@ -1,4 +1,4 @@
-<!-- 🌟 CareerByteCode GitHub Profile Banner -->
+<!-- 🌟 CareerByteCode GitHub Profile -->
 
 <h1 align="center">🚀 Welcome to <span style="color:#0078FF;">CareerByteCode</span></h1>
 
@@ -10,103 +10,89 @@
 
 ## 💡 About CareerByteCode
 
-> **“We don’t just teach. We transform learners into confident, job-ready professionals through real-time, project-based learning and global visibility.”**
+> **“We don’t just teach. We transform learners into confident, job-ready professionals — through real-time, project-based learning and global visibility.”**
 
 **CareerByteCode** is one of the **world’s fastest-growing tech ecosystems**, empowering **241,000+ IT professionals across 102+ countries. 🌍**  
-Currently based in **Belgium**, we lead consultancy operations across **Belgium and the Netherlands**, delivering **impact-driven solutions** and **career transformations**.
+Headquartered in **Belgium**, we drive **consulting, upskilling, and digital transformation** across **Europe, Asia, and North America**.
 
-We’re redefining how tech professionals **learn, grow, and thrive** — not by teaching theory, but by helping them **solve real-world problems** with confidence and global visibility. 💪  
-
----
-
-## 🌍 Why CareerByteCode Was Created
-
-Even today, **millions of students and IT professionals struggle to gain real-time experience** in high-demand technologies like **DevOps, Cloud, AI, GenAI, and Security**.  
-Most traditional platforms teach theory — but **companies hire for hands-on problem-solving skills.**
-
-That’s where CareerByteCode steps in.  
-We provide **a real-time, mentor-led ecosystem** where learners don’t just learn — they **build, present, and lead.**
+We’re not just an education brand — we’re a **career acceleration movement**.  
+We help professionals **learn, build, and lead** through **hands-on cloud, DevOps, and AI experiences.**
 
 ---
 
-## 🎯 What We Do Best
+## 🌍 Why CareerByteCode Exists
+
+Even today, millions of students and IT professionals **struggle to gain real-time experience** in high-demand technologies like  
+**DevOps • Cloud • AI • GenAI • Security**  
+
+Traditional training focuses on *theory* —  
+but companies hire for **problem-solving, real-world delivery, and confidence**.
+
+That’s exactly where **CareerByteCode** steps in.  
+We create a **mentor-driven ecosystem** where learners don’t just learn —  
+they **build, present, and lead** like professionals.
+
+---
+
+## 🎯 What We Excel At
 
 | 💼 Focus Area | 💥 Description |
 |---------------|----------------|
-| 🔧 **Real-Time Project-Based Learning** | DevOps, Cloud, AI/ML, GenAI, Security & Full Stack projects that replicate real production setups. |
-| 🎯 **Lead Generation & Consulting** | Helping IT & product companies find top-skilled, project-proven candidates. |
-| 📦 **Proof of Concept (POC) Showcases** | Demonstrating product value through real-world implementations. |
-| 💼 **Mock Interviews & Resume Makeovers** | Build confidence and boost employability with mentor-guided sessions. |
-| 📚 **Career Guidance Packages** | Personalized mentorship for interviews, LinkedIn branding, and portfolio design. |
-| 🌍 **Community-Backed Promotions** | Partner with us to promote your tech products to our vast global community. |
-| 🔥 **Upcoming Programs** | Hands-on trainings, global mentorship, and local chapters in **17+ countries**. |
+| 🔧 **Real-Time Project Learning** | 100+ projects in DevOps, Cloud, AI/ML, and Full Stack — built like real production systems. |
+| 🎯 **Consulting & Lead Generation** | Connecting companies with project-proven, mentor-certified professionals. |
+| 🧠 **Proof of Concept (POC) Labs** | Showcasing tech stacks through real-time, production-grade demos. |
+| 💼 **Career Acceleration Programs** | From resume building to mock interviews and LinkedIn branding. |
+| 🌍 **Global Chapters (17+ Countries)** | Local hubs for mentorship, collaboration, and leadership growth. |
+| 💰 **Earn-as-You-Learn Partnerships** | Help us scale while you build your income & influence. |
 
 ---
 
-## 🌎 Join Our Expanding Global Ecosystem
+## 🌎 Join Our Global Ecosystem
 
-We’re now launching **CareerByteCode Chapters** in **17+ countries** — building **hyperlocal hubs of tech talent**, **mentorship**, and **career opportunity**.  
+We’re launching **CareerByteCode Chapters** across **17+ countries**, creating **hyperlocal tech leadership hubs** that connect learners, mentors, and employers worldwide.
 
-If you're a **founder, CEO, or tech leader**, let’s collaborate and **create meaningful, win-win partnerships** that empower the global workforce.
+If you're a **founder, tech leader, or educator**, let’s **collaborate to empower the next generation** of global tech professionals.  
 
 📩 **Let’s build something extraordinary — together.**
 
 ---
 
-## 🧭 Who We Invite
+## 🧭 Who We Empower
 
-CareerByteCode welcomes the following changemakers:
-
-| 👥 Participant Type | 💡 What You’ll Gain |
-|----------------------|---------------------|
-| 🎓 **Students / IT Job Seekers** | Learn **real-time projects** and gain hands-on experience to become job-ready. |
-| 💻 **Professionals Upskilling in IT** | Get **mentor-led, project-driven training** in Cloud, DevOps, AI, and more. |
-| 💰 **Earn-as-You-Learn Resellers** | Partner with us to **earn income** while promoting our learning programs. |
-| 🏫 **Existing Training Centers** | Use our **EduTech platform** and **tech workforce** through **joint ventures** to grow faster. |
-| 🧠 **Mentors & Coaches** | Join our **global mentor network** — grow your visibility and brand impact. |
-| 🧩 **Product Companies** | Collaborate to **promote your tools and tech stacks** to our vast learner ecosystem. |
-| 🏢 **Technology Partners** | Help your teams **stay current and skilled** with our project-based learning modules. |
+| 👥 Audience | 🌱 What You Gain |
+|--------------|----------------|
+| 🎓 **Students / Job Seekers** | Real-time projects, confidence, and employability. |
+| 💻 **Working Professionals** | Transition into DevOps, Cloud, AI, or Full Stack roles. |
+| 💰 **Resellers / Ambassadors** | Monetize your network while growing with us. |
+| 🏫 **Training Institutes** | Scale your business using our ready-to-deploy project ecosystem. |
+| 🧠 **Mentors / Coaches** | Build your personal brand & global reach through our platform. |
+| 🧩 **Product Companies** | Partner to showcase your tools in our learning ecosystem. |
 
 ---
 
-## 🚀 How We’re Raising Zero-Confidence Learners into Global Leaders
+## ⚙️ Our Signature Framework  
+### **🧩 7-Stage Learning & Growth Delivery Model**
 
-At **CareerByteCode**, every learner follows our signature  
-🧩 **7-Stage Learning & Growth Delivery Framework**, designed to turn *zero-confidence beginners* into *visible, employable, global professionals.*
+> Turning *zero-confidence learners* into *global professionals.*
 
-### ⚙️ The 7 Stages of Transformation
-
-1️⃣ **Foundation Mastery – “What is What”**  
-Learn what technologies truly mean and how they work in **real production**.
-
-2️⃣ **Assessment-Based Validation**  
-Every concept is reinforced through **quizzes, coding challenges**, and real-world problem scenarios.
-
-3️⃣ **Real-Time Industry Projects (30+ Minimum)**  
-Build projects that mirror real production pipelines — with **GitHub repos, CI/CD & automation**.
-
-4️⃣ **New Project Creation**  
-Learners independently **design and deploy** their own new projects with documentation.
-
-5️⃣ **Community Presentation (20+ Projects)**  
-Present projects to the **CareerByteCode global community**, building **confidence & articulation**.
-
-6️⃣ **Visibility & Branding**  
-Publish content on **LinkedIn, YouTube**, and build **public portfolios** that attract recruiters.
-
-7️⃣ **Career Transformation**  
-Get **AI-optimized resumes (94+ ATS)**, mentor feedback, and **job-role alignment** to step into industry roles.
+1️⃣ **Foundation Mastery:** Understand the “why” behind every tech concept.  
+2️⃣ **Skill Validation:** Quizzes, assessments, and automation challenges.  
+3️⃣ **Project Replication:** 30+ real-world DevOps & Cloud projects.  
+4️⃣ **Innovation Build:** Learners create & deploy their own projects.  
+5️⃣ **Community Presentation:** Showcase projects to our 240K+ tech community.  
+6️⃣ **Visibility Boost:** Publish on GitHub, LinkedIn, YouTube for personal branding.  
+7️⃣ **Career Launch:** AI-optimized resume + job role alignment = transformation.  
 
 ---
 
-## 🌟 Our Promise
+## 🌟 Our Transformation Promise
 
 > “Every learner becomes a practitioner.  
 > Every practitioner becomes visible.  
 > Every visible professional becomes employable.”
 
-That’s the **CareerByteCode transformation model** — where we combine  
-📚 Learning + 🚀 Visibility + 💼 Employability.
+📚 Learning + 🚀 Visibility + 💼 Employability  
+That’s the **CareerByteCode Way.**
 
 ---
 
@@ -118,11 +104,21 @@ That’s the **CareerByteCode transformation model** — where we combine
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Insights (Working + Updated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=careerbytecode&show_icons=true&theme=radical&count_private=true&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=careerbytecode&theme=radical&hide_border=true" width="49%" />
+  <a href="https://github.com/careerbytecode">
+    <img src="https://github-readme-stats.vercel.app/api?username=careerbytecode&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="48%" alt="CareerByteCode GitHub Stats"/>
+  </a>
+  <a href="https://github.com/careerbytecode">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=careerbytecode&theme=tokyonight&hide_border=true" width="48%" alt="CareerByteCode GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/careerbytecode">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=careerbytecode&theme=react-dark&hide_border=true&area=true" width="95%" alt="CareerByteCode Contribution Graph"/>
+  </a>
 </p>
 
 ---
@@ -131,21 +127,22 @@ That’s the **CareerByteCode transformation model** — where we combine
 
 | 🌍 Platform | 🔗 URL |
 |-------------|--------|
-| 🧑‍💻 **GitHub** | [https://github.com](https://github.com) |
-| 💼 **LinkedIn** | [https://linkedin.com](https://linkedin.com) |
-| 📝 **Medium** | [https://medium.com](https://medium.com) |
-| 💻 **Dev.to** | [https://dev.to](https://dev.to) |
-| 📘 **Facebook** | [https://facebook.com](https://facebook.com) |
-| 🧠 **Hashnode** | [https://hashnode.com](https://hashnode.com) |
-| 🐦 **X (Twitter)** | [https://x.com](https://x.com) |
-| 🎥 **YouTube** | [https://youtube.com](https://youtube.com) |
+| 🧑‍💻 **GitHub** | [github.com/careerbytecode](https://github.com/careerbytecode) |
+| 💼 **LinkedIn** | [linkedin.com/company/careerbytecode](https://linkedin.com/company/careerbytecode) |
+| 📝 **Medium** | [medium.com/careerbytecode](https://medium.com/careerbytecode) |
+| 💻 **Dev.to** | [dev.to/careerbytecode](https://dev.to/careerbytecode) |
+| 🧠 **Hashnode** | [careerbytecode.hashnode.dev](https://careerbytecode.hashnode.dev) |
+| 📘 **Blogger** | [careerbytecode.blogspot.com](https://careerbytecode.blogspot.com) |
+| 🐦 **X (Twitter)** | [x.com/CareerByteCode](https://x.com/CareerByteCode) |
+| 🎥 **YouTube** | [youtube.com/@CareerByteCode](https://youtube.com/@CareerByteCode) |
+| 🌐 **Website** | [careerbytecode.substack.com](https://careerbytecode.substack.com) |
 
 ---
 
 ## 💬 Stay Connected
 
 📧 **Email:** [careerbytec@gmail.com](mailto:careerbytec@gmail.com)  
-🌐 **Website:** [https://careerbytecode.substack.com](https://careerbytecode.substack.com)
+🌍 **Website:** [https://careerbytecode.substack.com](https://careerbytecode.substack.com)
 
 ---
 
@@ -158,5 +155,7 @@ That’s the **CareerByteCode transformation model** — where we combine
 ---
 
 ### 🧩 Hashtags & SEO Keywords
-`#CareerByteCode` `#DevOps` `#CloudComputing` `#Azure` `#AWS` `#Kubernetes` `#FullStackDevelopment` `#Training` `#Consulting` `#Leadership` `#CareerTransformation` `#AI` `#GenAI` `#DataEngineering`
+`#CareerByteCode` `#DevOps` `#CloudComputing` `#Azure` `#AWS` `#Kubernetes`  
+`#FullStackDevelopment` `#Leadership` `#Training` `#Consulting`  
+`#AI` `#GenAI` `#DataEngineering` `#CareerTransformation` `#TechLeadership`
 
