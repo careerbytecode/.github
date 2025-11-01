@@ -108,10 +108,10 @@ That’s the **CareerByteCode Way.**
 
 <p align="center">
   <a href="https://github.com/careerbytecode">
-    <img src="https://github-readme-stats.vercel.app/api?username=careerbytecode&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="48%" alt="CareerByteCode GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=cbcstudent&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="48%" alt="CareerByteCode GitHub Stats"/>
   </a>
   <a href="https://github.com/careerbytecode">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=careerbytecode&theme=tokyonight&hide_border=true" width="48%" alt="CareerByteCode GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cbcstudent&theme=tokyonight&hide_border=true" width="48%" alt="CareerByteCode GitHub Streak"/>
   </a>
 </p>
 
