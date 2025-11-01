@@ -185,15 +185,12 @@ That’s the **CareerByteCode Way.**
 
 These passionate DevOps professionals conduct hands-on sessions, design real-world cloud projects, and mentor learners in CI/CD, Kubernetes, and Infrastructure as Code.
 
-| | | |
-|:--:|:--:|:--:|
-| <img src="https://ui-avatars.com/api/?name=RISWAN+RAJA+A&background=0078FF&color=fff&size=150" /><br>**RISWAN RAJA A**<br>[LinkedIn](https://www.linkedin.com/in/riswanrajacloud/) | <img src="https://ui-avatars.com/api/?name=Geetha+S&background=0078FF&color=fff&size=150" /><br>**Geetha S**<br>[LinkedIn](https://www.linkedin.com/in/geethascloud/) | <img src="https://ui-avatars.com/api/?name=Raghavendra+Ramesh&background=0078FF&color=fff&size=150" /><br>**Raghavendra Ramesh**<br>[LinkedIn](https://linkedin.com/in/raghavendracloud) |
-| <img src="https://ui-avatars.com/api/?name=Nikita&background=0078FF&color=fff&size=150" /><br>**Nikita**<br>[LinkedIn](https://www.linkedin.com/in/nikitaoncloud) | <img src="https://ui-avatars.com/api/?name=Bavithran+M&background=0078FF&color=fff&size=150" /><br>**Bavithran M**<br>[LinkedIn](https://www.linkedin.com/in/bavicnative/) | <img src="https://ui-avatars.com/api/?name=Jaffer+Ali&background=0078FF&color=fff&size=150" /><br>**Jaffer Ali**<br>[LinkedIn](https://www.linkedin.com/in/jaffercloudpro/) |
-| <img src="https://ui-avatars.com/api/?name=Rangaraj+Balakrishnan&background=0078FF&color=fff&size=150" /><br>**Rangaraj Balakrishnan**<br>[LinkedIn](https://www.linkedin.com/in/rajcloudx/) | <img src="https://ui-avatars.com/api/?name=Rakshita+Belwal&background=0078FF&color=fff&size=150" /><br>**Rakshita Belwal**<br>[LinkedIn](https://www.linkedin.com/in/rakshitabelwal/) | <img src="https://ui-avatars.com/api/?name=Manoj+Savukar&background=0078FF&color=fff&size=150" /><br>**Manoj Savukar**<br>[LinkedIn](https://www.linkedin.com/in/manojwithdevopsai) |
-| <img src="https://ui-avatars.com/api/?name=Sonali+Kurade&background=0078FF&color=fff&size=150" /><br>**Sonali Kurade**<br>[LinkedIn](https://www.linkedin.com/in/techopsbysonali/) | <img src="https://ui-avatars.com/api/?name=Sathish+Kannan+R&background=0078FF&color=fff&size=150" /><br>**Sathish Kannan R**<br>[LinkedIn](https://www.linkedin.com/in/sathisraki/) | <img src="https://ui-avatars.com/api/?name=Shruthi&background=0078FF&color=fff&size=150" /><br>**Shruthi**<br>[LinkedIn](https://www.linkedin.com/in/learnwithshruthi/) |
-| <img src="https://ui-avatars.com/api/?name=Ayesha+Masood&background=0078FF&color=fff&size=150" /><br>**Ayesha Masood**<br>[LinkedIn](https://www.linkedin.com/in/ayesha-masood054/) | <img src="https://ui-avatars.com/api/?name=Arun+Vaidyanathan&background=0078FF&color=fff&size=150" /><br>**Arun Vaidyanathan**<br>[LinkedIn](https://www.linkedin.com/in/arunvtechno/) | <img src="https://ui-avatars.com/api/?name=Subbareddy+Vundela&background=0078FF&color=fff&size=150" /><br>**Subbareddy (Venkata) Vundela**<br>[LinkedIn](https://www.linkedin.com/in/venkatbyte/) |
-| <img src="https://ui-avatars.com/api/?name=Vijesh+Vijayan&background=0078FF&color=fff&size=150" /><br>**Vijesh Vijayan**<br>[LinkedIn](https://www.linkedin.com/in/vjcloudops/) | <img src="https://ui-avatars.com/api/?name=Pradnya+Deshpande&background=0078FF&color=fff&size=150" /><br>**Pradnya Deshpande**<br>[LinkedIn](https://www.linkedin.com/in/clouddevopswithpradnya/) | <img src="https://ui-avatars.com/api/?name=Roopashree+R&background=0078FF&color=fff&size=150" /><br>**Roopashree R**<br>[LinkedIn](https://www.linkedin.com/in/roopashreeramadas/) |
-| <img src="https://ui-avatars.com/api/?name=Vibin+Cholayil&background=0078FF&color=fff&size=150" /><br>**Vibin Cholayil**<br>[LinkedIn](https://www.linkedin.com/in/techupvibin/) |  |  |
+| | | | | |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://ui-avatars.com/api/?name=RISWAN+RAJA+A&background=0078FF&color=fff&size=120" /><br>**RISWAN RAJA A**<br>[LinkedIn](https://www.linkedin.com/in/riswanrajacloud/) | <img src="https://ui-avatars.com/api/?name=Geetha+S&background=0078FF&color=fff&size=120" /><br>**Geetha S**<br>[LinkedIn](https://www.linkedin.com/in/geethascloud/) | <img src="https://ui-avatars.com/api/?name=Raghavendra+Ramesh&background=0078FF&color=fff&size=120" /><br>**Raghavendra Ramesh**<br>[LinkedIn](https://linkedin.com/in/raghavendracloud) | <img src="https://ui-avatars.com/api/?name=Nikita&background=0078FF&color=fff&size=120" /><br>**Nikita**<br>[LinkedIn](https://www.linkedin.com/in/nikitaoncloud) | <img src="https://ui-avatars.com/api/?name=Bavithran+M&background=0078FF&color=fff&size=120" /><br>**Bavithran M**<br>[LinkedIn](https://www.linkedin.com/in/bavicnative/) |
+| <img src="https://ui-avatars.com/api/?name=Jaffer+Ali&background=0078FF&color=fff&size=120" /><br>**Jaffer Ali**<br>[LinkedIn](https://www.linkedin.com/in/jaffercloudpro/) | <img src="https://ui-avatars.com/api/?name=Rangaraj+Balakrishnan&background=0078FF&color=fff&size=120" /><br>**Rangaraj Balakrishnan**<br>[LinkedIn](https://www.linkedin.com/in/rajcloudx/) | <img src="https://ui-avatars.com/api/?name=Rakshita+Belwal&background=0078FF&color=fff&size=120" /><br>**Rakshita Belwal**<br>[LinkedIn](https://www.linkedin.com/in/rakshitabelwal/) | <img src="https://ui-avatars.com/api/?name=Manoj+Savukar&background=0078FF&color=fff&size=120" /><br>**Manoj Savukar**<br>[LinkedIn](https://www.linkedin.com/in/manojwithdevopsai) | <img src="https://ui-avatars.com/api/?name=Sonali+Kurade&background=0078FF&color=fff&size=120" /><br>**Sonali Kurade**<br>[LinkedIn](https://www.linkedin.com/in/techopsbysonali/) |
+| <img src="https://ui-avatars.com/api/?name=Sathish+Kannan+R&background=0078FF&color=fff&size=120" /><br>**Sathish Kannan R**<br>[LinkedIn](https://www.linkedin.com/in/sathisraki/) | <img src="https://ui-avatars.com/api/?name=Shruthi&background=0078FF&color=fff&size=120" /><br>**Shruthi**<br>[LinkedIn](https://www.linkedin.com/in/learnwithshruthi/) | <img src="https://ui-avatars.com/api/?name=Ayesha+Masood&background=0078FF&color=fff&size=120" /><br>**Ayesha Masood**<br>[LinkedIn](https://www.linkedin.com/in/ayesha-masood054/) | <img src="https://ui-avatars.com/api/?name=Arun+Vaidyanathan&background=0078FF&color=fff&size=120" /><br>**Arun Vaidyanathan**<br>[LinkedIn](https://www.linkedin.com/in/arunvtechno/) | <img src="https://ui-avatars.com/api/?name=Subbareddy+Vundela&background=0078FF&color=fff&size=120" /><br>**Subbareddy (Venkata) Vundela**<br>[LinkedIn](https://www.linkedin.com/in/venkatbyte/) |
+| <img src="https://ui-avatars.com/api/?name=Vijesh+Vijayan&background=0078FF&color=fff&size=120" /><br>**Vijesh Vijayan**<br>[LinkedIn](https://www.linkedin.com/in/vjcloudops/) | <img src="https://ui-avatars.com/api/?name=Pradnya+Deshpande&background=0078FF&color=fff&size=120" /><br>**Pradnya Deshpande**<br>[LinkedIn](https://www.linkedin.com/in/clouddevopswithpradnya/) | <img src="https://ui-avatars.com/api/?name=Roopashree+R&background=0078FF&color=fff&size=120" /><br>**Roopashree R**<br>[LinkedIn](https://www.linkedin.com/in/roopashreeramadas/) | <img src="https://ui-avatars.com/api/?name=Vibin+Cholayil&background=0078FF&color=fff&size=120" /><br>**Vibin Cholayil**<br>[LinkedIn](https://www.linkedin.com/in/techupvibin/) |  |
 
 ---
 
@@ -201,12 +198,11 @@ These passionate DevOps professionals conduct hands-on sessions, design real-wor
 
 Architects designing scalable DevOps systems, leading migrations, and mentoring engineers to think end-to-end.
 
-| | | |
-|:--:|:--:|:--:|
-| <img src="https://ui-avatars.com/api/?name=RISWAN+RAJA+A&background=0078FF&color=fff&size=150" /><br>**RISWAN RAJA A** | <img src="https://ui-avatars.com/api/?name=Raghavendra+Ramesh&background=0078FF&color=fff&size=150" /><br>**Raghavendra Ramesh** | <img src="https://ui-avatars.com/api/?name=Nikita&background=0078FF&color=fff&size=150" /><br>**Nikita** |
-| <img src="https://ui-avatars.com/api/?name=Bavithran+M&background=0078FF&color=fff&size=150" /><br>**Bavithran M** | <img src="https://ui-avatars.com/api/?name=Jaffer+Ali&background=0078FF&color=fff&size=150" /><br>**Jaffer Ali** | <img src="https://ui-avatars.com/api/?name=Rangaraj+Balakrishnan&background=0078FF&color=fff&size=150" /><br>**Rangaraj Balakrishnan** |
-| <img src="https://ui-avatars.com/api/?name=Sathish+Kannan+R&background=0078FF&color=fff&size=150" /><br>**Sathish Kannan R** | <img src="https://ui-avatars.com/api/?name=Arun+Vaidyanathan&background=0078FF&color=fff&size=150" /><br>**Arun Vaidyanathan** | <img src="https://ui-avatars.com/api/?name=Subbareddy+Vundela&background=0078FF&color=fff&size=150" /><br>**Subbareddy (Venkata) Vundela** |
-| <img src="https://ui-avatars.com/api/?name=Vijesh+Vijayan&background=0078FF&color=fff&size=150" /><br>**Vijesh Vijayan** | <img src="https://ui-avatars.com/api/?name=Pradnya+Deshpande&background=0078FF&color=fff&size=150" /><br>**Pradnya Deshpande** | <img src="https://ui-avatars.com/api/?name=Karthik+Sekar&background=0078FF&color=fff&size=150" /><br>**Karthik Sekar** |
+| | | | | |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://ui-avatars.com/api/?name=RISWAN+RAJA+A&background=0078FF&color=fff&size=120" /><br>**RISWAN RAJA A**<br>[LinkedIn](https://www.linkedin.com/in/riswanrajacloud/) | <img src="https://ui-avatars.com/api/?name=Raghavendra+Ramesh&background=0078FF&color=fff&size=120" /><br>**Raghavendra Ramesh**<br>[LinkedIn](https://linkedin.com/in/raghavendracloud) | <img src="https://ui-avatars.com/api/?name=Nikita&background=0078FF&color=fff&size=120" /><br>**Nikita**<br>[LinkedIn](https://www.linkedin.com/in/nikitaoncloud) | <img src="https://ui-avatars.com/api/?name=Bavithran+M&background=0078FF&color=fff&size=120" /><br>**Bavithran M**<br>[LinkedIn](https://www.linkedin.com/in/bavicnative/) | <img src="https://ui-avatars.com/api/?name=Jaffer+Ali&background=0078FF&color=fff&size=120" /><br>**Jaffer Ali**<br>[LinkedIn](https://www.linkedin.com/in/jaffercloudpro/) |
+| <img src="https://ui-avatars.com/api/?name=Rangaraj+Balakrishnan&background=0078FF&color=fff&size=120" /><br>**Rangaraj Balakrishnan**<br>[LinkedIn](https://www.linkedin.com/in/rajcloudx/) | <img src="https://ui-avatars.com/api/?name=Sathish+Kannan+R&background=0078FF&color=fff&size=120" /><br>**Sathish Kannan R**<br>[LinkedIn](https://www.linkedin.com/in/sathisraki/) | <img src="https://ui-avatars.com/api/?name=Arun+Vaidyanathan&background=0078FF&color=fff&size=120" /><br>**Arun Vaidyanathan**<br>[LinkedIn](https://www.linkedin.com/in/arunvtechno/) | <img src="https://ui-avatars.com/api/?name=Subbareddy+Vundela&background=0078FF&color=fff&size=120" /><br>**Subbareddy (Venkata) Vundela**<br>[LinkedIn](https://www.linkedin.com/in/venkatbyte/) | <img src="https://ui-avatars.com/api/?name=Vijesh+Vijayan&background=0078FF&color=fff&size=120" /><br>**Vijesh Vijayan**<br>[LinkedIn](https://www.linkedin.com/in/vjcloudops/) |
+| <img src="https://ui-avatars.com/api/?name=Pradnya+Deshpande&background=0078FF&color=fff&size=120" /><br>**Pradnya Deshpande**<br>[LinkedIn](https://www.linkedin.com/in/clouddevopswithpradnya/) | <img src="https://ui-avatars.com/api/?name=Karthik+Sekar&background=0078FF&color=fff&size=120" /><br>**Karthik Sekar**<br>[LinkedIn](https://www.linkedin.com/in/karthiksekars/) |  |  |  |
 
 ---
 
@@ -214,57 +210,53 @@ Architects designing scalable DevOps systems, leading migrations, and mentoring 
 
 Professionals blending **Python, AI, and Data Science** to create real-world machine learning and automation solutions.
 
-| | | |
-|:--:|:--:|:--:|
-| <img src="https://ui-avatars.com/api/?name=Reshma+S&background=0078FF&color=fff&size=150" /><br>**Reshma S** | <img src="https://ui-avatars.com/api/?name=Lavanya+R&background=0078FF&color=fff&size=150" /><br>**Lavanya R** | <img src="https://ui-avatars.com/api/?name=Anitha&background=0078FF&color=fff&size=150" /><br>**Anitha** |
-| <img src="https://ui-avatars.com/api/?name=Sivaranjan+A&background=0078FF&color=fff&size=150" /><br>**Sivaranjan A** | <img src="https://ui-avatars.com/api/?name=Tanisha+R+A&background=0078FF&color=fff&size=150" /><br>**Tanisha R A** | <img src="https://ui-avatars.com/api/?name=Jenefer+Rexee+George&background=0078FF&color=fff&size=150" /><br>**Jenefer Rexee George** |
-| <img src="https://ui-avatars.com/api/?name=Kruthica+T&background=0078FF&color=fff&size=150" /><br>**Kruthica T** | <img src="https://ui-avatars.com/api/?name=Kiruthiga+Ravi&background=0078FF&color=fff&size=150" /><br>**Kiruthiga Ravi** | <img src="https://ui-avatars.com/api/?name=Dharshini+Karthikeyan&background=0078FF&color=fff&size=150" /><br>**Dharshini Karthikeyan** |
-| <img src="https://ui-avatars.com/api/?name=Charisma+Devi+Polothu&background=0078FF&color=fff&size=150" /><br>**Charisma Devi Polothu** | <img src="https://ui-avatars.com/api/?name=Tejaswini+Muralikrishnan&background=0078FF&color=fff&size=150" /><br>**Tejaswini Muralikrishnan** | <img src="https://ui-avatars.com/api/?name=Akurati+Jahnavi&background=0078FF&color=fff&size=150" /><br>**Akurati Jahnavi** |
-| <img src="https://ui-avatars.com/api/?name=Rakshita+Belwal&background=0078FF&color=fff&size=150" /><br>**Rakshita Belwal** | <img src="https://ui-avatars.com/api/?name=Esvanth+M&background=0078FF&color=fff&size=150" /><br>**Esvanth M** | <img src="https://ui-avatars.com/api/?name=Monisha+Gangadhareshwara&background=0078FF&color=fff&size=150" /><br>**Monisha Gangadhareshwara** |
-| <img src="https://ui-avatars.com/api/?name=Gaurii+Zende&background=0078FF&color=fff&size=150" /><br>**Gaurii Zende** |  |  |
+| | | | | |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://ui-avatars.com/api/?name=Reshma+S&background=0078FF&color=fff&size=120" /><br>**Reshma S**<br>[LinkedIn](https://www.linkedin.com/in/reshmawithai/) | <img src="https://ui-avatars.com/api/?name=Lavanya+R&background=0078FF&color=fff&size=120" /><br>**Lavanya R**<br>[LinkedIn](https://www.linkedin.com/in/iamlavanyar/) | <img src="https://ui-avatars.com/api/?name=Anitha&background=0078FF&color=fff&size=120" /><br>**Anitha**<br>[LinkedIn](https://www.linkedin.com/in/anithadigital) | <img src="https://ui-avatars.com/api/?name=Sivaranjan+A&background=0078FF&color=fff&size=120" /><br>**Sivaranjan A**<br>[LinkedIn](https://www.linkedin.com/in/sivaaiexpert/) | <img src="https://ui-avatars.com/api/?name=Tanisha+R+A&background=0078FF&color=fff&size=120" /><br>**Tanisha R A**<br>[LinkedIn](https://www.linkedin.com/in/tanisharajesh/) |
+| <img src="https://ui-avatars.com/api/?name=Jenefer+Rexee+George&background=0078FF&color=fff&size=120" /><br>**Jenefer Rexee George**<br>[LinkedIn](https://www.linkedin.com/in/jenwithai/) | <img src="https://ui-avatars.com/api/?name=Kruthica+T&background=0078FF&color=fff&size=120" /><br>**Kruthica T**<br>[LinkedIn](https://www.linkedin.com/in/kruthicawithai/) | <img src="https://ui-avatars.com/api/?name=Kiruthiga+Ravi&background=0078FF&color=fff&size=120" /><br>**Kiruthiga Ravi**<br>[LinkedIn](https://www.linkedin.com/in/aiwithkiruthiga/) | <img src="https://ui-avatars.com/api/?name=Dharshini+Karthikeyan&background=0078FF&color=fff&size=120" /><br>**Dharshini Karthikeyan**<br>[LinkedIn](https://www.linkedin.com/in/askdharshiniai/) | <img src="https://ui-avatars.com/api/?name=Charisma+Devi+Polothu&background=0078FF&color=fff&size=120" /><br>**Charisma Devi Polothu**<br>[LinkedIn](https://www.linkedin.com/in/charismawithai/) |
+| <img src="https://ui-avatars.com/api/?name=Tejaswini+Muralikrishnan&background=0078FF&color=fff&size=120" /><br>**Tejaswini Muralikrishnan**<br>[LinkedIn](https://www.linkedin.com/in/tejaswini-muralikrishnan-377ab521b/) | <img src="https://ui-avatars.com/api/?name=Akurati+Jahnavi&background=0078FF&color=fff&size=120" /><br>**Akurati Jahnavi**<br>[LinkedIn](https://www.linkedin.com/in/janucloud/) | <img src="https://ui-avatars.com/api/?name=Rakshita+Belwal&background=0078FF&color=fff&size=120" /><br>**Rakshita Belwal**<br>[LinkedIn](https://www.linkedin.com/in/rakshitabelwal/) | <img src="https://ui-avatars.com/api/?name=Esvanth+M&background=0078FF&color=fff&size=120" /><br>**Esvanth M**<br>[LinkedIn](https://www.linkedin.com/in/esvanthdevadvocate/) | <img src="https://ui-avatars.com/api/?name=Monisha+Gangadhareshwara&background=0078FF&color=fff&size=120" /><br>**Monisha Gangadhareshwara**<br>[LinkedIn](https://www.linkedin.com/in/learnwithmona/) |
+| <img src="https://ui-avatars.com/api/?name=Gaurii+Zende&background=0078FF&color=fff&size=120" /><br>**Gaurii Zende**<br>[LinkedIn](https://www.linkedin.com/in/guarriwithai/) |  |  |  |  |
 
 ---
 
 ## 💻 Full Stack Developers
 
-| | | |
-|:--:|:--:|:--:|
-| <img src="https://ui-avatars.com/api/?name=Sasi+Rekha+Golla&background=0078FF&color=fff&size=150" /><br>**Sasi Rekha Golla** | <img src="https://ui-avatars.com/api/?name=Naveen+Kumar+K&background=0078FF&color=fff&size=150" /><br>**Naveen Kumar K** | <img src="https://ui-avatars.com/api/?name=Tejas+Lamkhade&background=0078FF&color=fff&size=150" /><br>**Tejas Lamkhade** |
+| | | | | |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://ui-avatars.com/api/?name=Sasi+Rekha+Golla&background=0078FF&color=fff&size=120" /><br>**Sasi Rekha Golla**<br>[LinkedIn](https://www.linkedin.com/in/testitwithsasi/) | <img src="https://ui-avatars.com/api/?name=Naveen+Kumar+K&background=0078FF&color=fff&size=120" /><br>**Naveen Kumar K**<br>[LinkedIn](https://www.linkedin.com/in/naveencloud/) | <img src="https://ui-avatars.com/api/?name=Tejas+Lamkhade&background=0078FF&color=fff&size=120" /><br>**Tejas Lamkhade**<br>[LinkedIn](https://www.linkedin.com/in/tejaslamkhade/) |  |  |
 
 ---
 
 ## 👩‍💼 Co-Leaders
 
-| | | |
-|:--:|:--:|:--:|
-| <img src="https://ui-avatars.com/api/?name=Siva+Sankari&background=0078FF&color=fff&size=150" /><br>**Siva Sankari** | <img src="https://ui-avatars.com/api/?name=Sonali+Kurade&background=0078FF&color=fff&size=150" /><br>**Sonali Kurade** | <img src="https://ui-avatars.com/api/?name=Reshma+S&background=0078FF&color=fff&size=150" /><br>**Reshma S** |
-| <img src="https://ui-avatars.com/api/?name=Monisha+Gangadhareshwara&background=0078FF&color=fff&size=150" /><br>**Monisha Gangadhareshwara** | <img src="https://ui-avatars.com/api/?name=Anitha&background=0078FF&color=fff&size=150" /><br>**Anitha** |  |
+| | | | | |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://ui-avatars.com/api/?name=Siva+Sankari&background=0078FF&color=fff&size=120" /><br>**Siva Sankari**<br>[LinkedIn](https://www.linkedin.com/in/sankari-cloud) | <img src="https://ui-avatars.com/api/?name=Sonali+Kurade&background=0078FF&color=fff&size=120" /><br>**Sonali Kurade**<br>[LinkedIn](https://www.linkedin.com/in/techopsbysonali/) | <img src="https://ui-avatars.com/api/?name=Reshma+S&background=0078FF&color=fff&size=120" /><br>**Reshma S**<br>[LinkedIn](https://www.linkedin.com/in/reshmawithai/) | <img src="https://ui-avatars.com/api/?name=Monisha+Gangadhareshwara&background=0078FF&color=fff&size=120" /><br>**Monisha Gangadhareshwara**<br>[LinkedIn](https://www.linkedin.com/in/learnwithmona/) | <img src="https://ui-avatars.com/api/?name=Anitha&background=0078FF&color=fff&size=120" /><br>**Anitha**<br>[LinkedIn](https://www.linkedin.com/in/anithadigital) |
 
 ---
 
 ## 🧭 Career Coaches
 
-| | | |
-|:--:|:--:|:--:|
-| <img src="https://ui-avatars.com/api/?name=Subhashree+RK&background=0078FF&color=fff&size=150" /><br>**Subhashree RK** | <img src="https://ui-avatars.com/api/?name=Fizza+Saleem&background=0078FF&color=fff&size=150" /><br>**Fizza Saleem** | <img src="https://ui-avatars.com/api/?name=Monisha+Gangadhareshwara&background=0078FF&color=fff&size=150" /><br>**Monisha Gangadhareshwara** |
+| | | | | |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://ui-avatars.com/api/?name=Subhashree+RK&background=0078FF&color=fff&size=120" /><br>**Subhashree RK**<br>[LinkedIn](https://www.linkedin.com/in/subhamentor/) | <img src="https://ui-avatars.com/api/?name=Fizza+Saleem&background=0078FF&color=fff&size=120" /><br>**Fizza Saleem**<br>[LinkedIn](https://www.linkedin.com/in/careerwithfizzasaleem/) | <img src="https://ui-avatars.com/api/?name=Monisha+Gangadhareshwara&background=0078FF&color=fff&size=120" /><br>**Monisha Gangadhareshwara**<br>[LinkedIn](https://www.linkedin.com/in/learnwithmona/) |  |  |
 
 ---
 
 ## 🤝 Franchisee Collaboration Leaders
 
-| | | |
-|:--:|:--:|:--:|
-| <img src="https://ui-avatars.com/api/?name=Subhashree+RK&background=0078FF&color=fff&size=150" /><br>**Subhashree RK** | <img src="https://ui-avatars.com/api/?name=Monisha+Gangadhareshwara&background=0078FF&color=fff&size=150" /><br>**Monisha Gangadhareshwara** | <img src="https://ui-avatars.com/api/?name=Siva+Sankari&background=0078FF&color=fff&size=150" /><br>**Siva Sankari** |
-| <img src="https://ui-avatars.com/api/?name=Sonali+Kurade&background=0078FF&color=fff&size=150" /><br>**Sonali Kurade** |  |  |
+| | | | | |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://ui-avatars.com/api/?name=Subhashree+RK&background=0078FF&color=fff&size=120" /><br>**Subhashree RK**<br>[LinkedIn](https://www.linkedin.com/in/subhamentor/) | <img src="https://ui-avatars.com/api/?name=Monisha+Gangadhareshwara&background=0078FF&color=fff&size=120" /><br>**Monisha Gangadhareshwara**<br>[LinkedIn](https://www.linkedin.com/in/learnwithmona/) | <img src="https://ui-avatars.com/api/?name=Siva+Sankari&background=0078FF&color=fff&size=120" /><br>**Siva Sankari**<br>[LinkedIn](https://www.linkedin.com/in/sankari-cloud) | <img src="https://ui-avatars.com/api/?name=Sonali+Kurade&background=0078FF&color=fff&size=120" /><br>**Sonali Kurade**<br>[LinkedIn](https://www.linkedin.com/in/techopsbysonali/) |  |
 
 ---
 
 ## 💻 CareerByteCode Web Developers
 
-| | | |
-|:--:|:--:|:--:|
-| <img src="https://ui-avatars.com/api/?name=Naveen+Kumar+K&background=0078FF&color=fff&size=150" /><br>**Naveen Kumar K** | <img src="https://ui-avatars.com/api/?name=Tejas+Balasaheb+Lamkhade&background=0078FF&color=fff&size=150" /><br>**Tejas Balasaheb Lamkhade** | <img src="https://ui-avatars.com/api/?name=Aakash+Daulat+Deshmane&background=0078FF&color=fff&size=150" /><br>**Aakash Daulat Deshmane** |
-| <img src="https://ui-avatars.com/api/?name=Arjun+Shakthi+C&background=0078FF&color=fff&size=150" /><br>**Arjun Shakthi C** | <img src="https://ui-avatars.com/api/?name=Sivaranjan+A&background=0078FF&color=fff&size=150" /><br>**Sivaranjan A** | <img src="https://ui-avatars.com/api/?name=Gokhul+T+G&background=0078FF&color=fff&size=150" /><br>**Gokhul T G** |
+| | | | | |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://ui-avatars.com/api/?name=Naveen+Kumar+K&background=0078FF&color=fff&size=120" /><br>**Naveen Kumar K**<br>[LinkedIn](https://www.linkedin.com/in/naveencloud/) | <img src="https://ui-avatars.com/api/?name=Tejas+Balasaheb+Lamkhade&background=0078FF&color=fff&size=120" /><br>**Tejas Balasaheb Lamkhade**<br>[LinkedIn](https://www.linkedin.com/in/tejaslamkhade/) | <img src="https://ui-avatars.com/api/?name=Aakash+Daulat+Deshmane&background=0078FF&color=fff&size=120" /><br>**Aakash Daulat Deshmane**<br>[LinkedIn](https://www.linkedin.com/in/aakashdeshmane/) | <img src="https://ui-avatars.com/api/?name=Arjun+Shakthi+C&background=0078FF&color=fff&size=120" /><br>**Arjun Shakthi C**<br>[LinkedIn](https://www.linkedin.com/in/arjun-shakthi-c/) | <img src="https://ui-avatars.com/api/?name=Sivaranjan+A&background=0078FF&color=fff&size=120" /><br>**Sivaranjan A**<br>[LinkedIn](https://www.linkedin.com/in/sivaaiexpert/) |
+| <img src="https://ui-avatars.com/api/?name=Gokhul+T+G&background=0078FF&color=fff&size=120" /><br>**Gokhul T G**<br>[LinkedIn](https://www.linkedin.com/in/g0khul) |  |  |  |  |
 
 ---
 
