@@ -111,8 +111,9 @@ That’s the **CareerByteCode Way.**
     <img src="https://github-readme-stats.vercel.app/api?username=cbcstudent&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="48%" alt="CareerByteCode GitHub Stats"/>
   </a>
  <a href="https://github.com/cbcstudent">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cbcstudent&theme=tokyonight&hide_border=true" width="48%" alt="CBC Student GitHub Streak"/>
+  <img src="https://git-hub-streak-stats.vercel.app?user=cbcstudent&theme=tokyonight&hide_border=true" width="48%" alt="CBC Student GitHub Streak"/>
 </a>
+
 
 </p>
 
