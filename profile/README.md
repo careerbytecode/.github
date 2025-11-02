@@ -248,17 +248,22 @@ Professionals blending Python, AI, and Data Science to deliver practical ML and 
 ## ✨ Connect & Collaborate
 
 <p align="center">
-  <a href="https://careerbytecode.substack.com"><img src="https://img.shields.io/badge/Website-Substack-222222?logo=substack&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/company/careerbytecode"><img src="https://img.shields.io/badge/LinkedIn-CareerByteCode-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/careerbytecode"><img src="https://img.shields.io/badge/GitHub-careerbytecode-181717?logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://medium.com"><img src="https://img.shields.io/badge/Medium-@CareerByteCode-00ab6c?logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://hashnode.com"><img src="https://img.shields.io/badge/Hashnode-@CareerByteCode-2962FF?logo=hashnode&logoColor=white" alt="Hashnode" /></a>
-  <a href="https://youtube.com/@CareerByteCode"><img src="https://img.shields.io/badge/YouTube-@CareerByteCode-FF0000?logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/company/careerbytecode" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Connect-on-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://careerbytecode.substack.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Read-Our-Newsletter-222222?logo=substack&logoColor=white" alt="Substack" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/careerbytecode" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-careerbytecode-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
   <strong>Want to partner, teach, or join as a mentor?</strong><br>
-  <a href="mailto:careerbytec@gmail.com">careerbytec@gmail.com</a> — tell us your area (Cloud / DevOps / AI), location, and availability.
+  Connect with us on LinkedIn — tell us your area (Cloud / DevOps / AI), location, and availability via the **Connect on LinkedIn** button above.
 </p>
 
 ---
