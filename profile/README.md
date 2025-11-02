@@ -174,13 +174,12 @@ That’s the **CareerByteCode Way.**
 
 ---
 
-# 🌍 CareerByteCode – Where Mentors Build Leaders
+# 🌍 CareerByteCode — Where Mentors Build Leaders
 
-> A global community of **Cloud, DevOps, and AI professionals** transforming learners into industry-ready experts through real-time projects, mentorship, and leadership initiatives.
+> A global community of **Cloud, DevOps & AI professionals** transforming learners into industry-ready experts through real-time projects, mentorship, and leadership initiatives.
 
 <p align="center">
-  <!-- Organization banner (added per request) -->
-  <img src="https://i.ibb.co/NndmL66n/Cloud-By-Venkat.jpg" alt="CareerByteCode Banner" width="100%"/>
+  <img src="https://i.ibb.co/NndmL66n/Cloud-By-Venkat.jpg" alt="CareerByteCode Banner" width="100%" />
 </p>
 
 ---
@@ -192,20 +191,20 @@ These passionate DevOps professionals run hands-on labs, design real-world cloud
 | | | | | |
 |:--:|:--:|:--:|:--:|:--:|
 | [<img src="https://i.ibb.co/p6BVDbhq/riswanrajacloud.jpg" alt="RISWAN RAJA A" width="120"/>](https://www.linkedin.com/in/riswanrajacloud/)<br>**[RISWAN RAJA A](https://www.linkedin.com/in/riswanrajacloud/)**<br>CloudOps Engineer | [<img src="https://i.ibb.co/x8cBG0Q2/geethascloud.jpg" alt="Geetha S" width="120"/>](https://www.linkedin.com/in/geethascloud/)<br>**[Geetha S](https://www.linkedin.com/in/geethascloud/)**<br>Azure Mentor | [<img src="https://i.ibb.co/gbNv1WXr/architectraghu.jpg" alt="Raghavendra Ramesh" width="120"/>](https://linkedin.com/in/raghavendracloud)<br>**[Raghavendra Ramesh](https://linkedin.com/in/raghavendracloud)**<br>CI/CD Specialist | [<img src="https://i.ibb.co/TDbXjgsf/nikitaoncloud.jpg" alt="Nikita" width="120"/>](https://www.linkedin.com/in/nikitaoncloud/)<br>**[Nikita](https://www.linkedin.com/in/nikitaoncloud/)**<br>DevOps Evangelist | [<img src="https://i.ibb.co/27yd4gVH/bavicnative.jpg" alt="Bavithran M" width="120"/>](https://www.linkedin.com/in/bavicnative/)<br>**[Bavithran M](https://www.linkedin.com/in/bavicnative/)**<br>Founder & Architect |
-| [<img src="https://i.ibb.co/Vc6X83Kh/jaffercloudpro.jpg" alt="Jaffer Ali" width="120"/>](https://www.linkedin.com/in/jaffercloudpro/)<br>**[Jaffer Ali](https://www.linkedin.com/in/jaffercloudpro/)**<br>Automation Lead | [<img src="https://ui-avatars.com/api/?name=Rangaraj+Balakrishnan&background=0078FF&color=fff&size=120" alt="Rangaraj Balakrishnan" width="120"/>](https://www.linkedin.com/in/rajcloudx/)<br>**[Rangaraj Balakrishnan](https://www.linkedin.com/in/rajcloudx/)**<br>DevSecOps Lead | [<img src="https://i.ibb.co/fYV5B6vv/rakshitabelwal.jpg" alt="Rakshita Belwal" width="120"/>](https://www.linkedin.com/in/rakshitabelwal/)<br>**[Rakshita Belwal](https://www.linkedin.com/in/rakshitabelwal/)**<br>Cloud Practitioner | [<img src="https://i.ibb.co/ks7MLzmJ/manojwithdevopsai.jpg" alt="Manoj Savukar" width="120"/>](https://www.linkedin.com/in/manojwithdevopsai)<br>**[Manoj Savukar](https://www.linkedin.com/in/manojwithdevopsai)**<br>DevOps + AI Mentor | [<img src="https://i.ibb.co/Mx8SNRZc/techopsbysonali.jpg" alt="Sonali Kurade" width="120"/>](https://www.linkedin.com/in/techopsbysonali/)<br>**[Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/)**<br>Senior DevOps Coach |
-| [<img src="https://i.ibb.co/Qy9nWq9/learnwithshruthi.jpg" alt="Shruthi" width="120"/>](https://www.linkedin.com/in/learnwithshruthi/)<br>**[Shruthi](https://www.linkedin.com/in/learnwithshruthi/)**<br>Hands-on Trainer | [<img src="https://ui-avatars.com/api/?name=Ayesha+Masood&background=0078FF&color=fff&size=120" alt="Ayesha Masood" width="120"/>](https://www.linkedin.com/in/ayesha-masood054/)<br>**[Ayesha Masood](https://www.linkedin.com/in/ayesha-masood054/)**<br>Cloud Automation | [<img src="https://ui-avatars.com/api/?name=Arun+Vaidyanathan&background=0078FF&color=fff&size=120" alt="Arun Vaidyanathan" width="120"/>](https://www.linkedin.com/in/arunvtechno/)<br>**[Arun Vaidyanathan](https://www.linkedin.com/in/arunvtechno/)**<br>Migration Specialist | [<img src="https://ui-avatars.com/api/?name=Subbareddy+Vundela&background=0078FF&color=fff&size=120" alt="Subbareddy Vundela" width="120"/>](https://www.linkedin.com/in/venkatbyte/)<br>**[Subbareddy (Venkata) Vundela](https://www.linkedin.com/in/venkatbyte/)**<br>DevOps Architect | [<img src="https://i.ibb.co/Myz1XV9P/vjcloudops.jpg" alt="Vijesh Vijayan" width="120"/>](https://www.linkedin.com/in/vjcloudops/)<br>**[Vijesh Vijayan](https://www.linkedin.com/in/vjcloudops/)**<br>Cloud Reliability |
-| [<img src="https://i.ibb.co/8LjJ5kYB/learnwithpradnya.jpg" alt="Pradnya Deshpande" width="120"/>](https://www.linkedin.com/in/clouddevopswithpradnya/)<br>**[Pradnya Deshpande](https://www.linkedin.com/in/clouddevopswithpradnya/)**<br>IaC Mentor | [<img src="https://i.ibb.co/spxhspRk/roopashreeramadas.jpg" alt="Roopashree R" width="120"/>](https://www.linkedin.com/in/roopashreeramadas/)<br>**[Roopashree R](https://www.linkedin.com/in/roopashreeramadas/)**<br>DevOps Practitioner | [<img src="https://ui-avatars.com/api/?name=Vibin+Cholayil&background=0078FF&color=fff&size=120" alt="Vibin Cholayil" width="120"/>](https://www.linkedin.com/in/techupvibin/)<br>**[Vibin Cholayil](https://www.linkedin.com/in/techupvibin/)**<br>Cloud Automation |  |  |
+| [<img src="https://i.ibb.co/Vc6X83Kh/jaffercloudpro.jpg" alt="Jaffer Ali" width="120"/>](https://www.linkedin.com/in/jaffercloudpro/)<br>**[Jaffer Ali](https://www.linkedin.com/in/jaffercloudpro/)**<br>Automation Lead | [<img src="https://i.ibb.co/8LjJ5kYB/learnwithpradnya.jpg" alt="Pradnya Deshpande" width="120"/>](https://www.linkedin.com/in/clouddevopswithpradnya/)<br>**[Pradnya Deshpande](https://www.linkedin.com/in/clouddevopswithpradnya/)**<br>IaC Mentor | [<img src="https://i.ibb.co/fYV5B6vv/rakshitabelwal.jpg" alt="Rakshita Belwal" width="120"/>](https://www.linkedin.com/in/rakshitabelwal/)<br>**[Rakshita Belwal](https://www.linkedin.com/in/rakshitabelwal/)**<br>Cloud Practitioner | [<img src="https://i.ibb.co/ks7MLzmJ/manojwithdevopsai.jpg" alt="Manoj Savukar" width="120"/>](https://www.linkedin.com/in/manojwithdevopsai)<br>**[Manoj Savukar](https://www.linkedin.com/in/manojwithdevopsai)**<br>DevOps + AI Mentor | [<img src="https://i.ibb.co/Mx8SNRZc/techopsbysonali.jpg" alt="Sonali Kurade" width="120"/>](https://www.linkedin.com/in/techopsbysonali/)<br>**[Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/)**<br>Senior DevOps Coach |
+| [<img src="https://i.ibb.co/Qy9nWq9/learnwithshruthi.jpg" alt="Shruthi" width="120"/>](https://www.linkedin.com/in/learnwithshruthi/)<br>**[Shruthi](https://www.linkedin.com/in/learnwithshruthi/)**<br>Hands-on Trainer | [<img src="https://ui-avatars.com/api/?name=Ayesha+Masood&background=0078FF&color=fff&size=120" alt="Ayesha Masood" width="120"/>](https://www.linkedin.com/in/ayesha-masood054/)<br>**[Ayesha Masood](https://www.linkedin.com/in/ayesha-masood054/)**<br>Cloud Automation | [<img src="https://ui-avatars.com/api/?name=Arun+Vaidyanathan&background=0078FF&color=fff&size=120" alt="Arun Vaidyanathan" width="120"/>](https://www.linkedin.com/in/arunvtechno/)<br>**[Arun Vaidyanathan](https://www.linkedin.com/in/arunvtechno/)**<br>Migration Specialist | [<img src="https://i.ibb.co/FLQ5R9vw/cloudbyvenkat.jpg" alt="cloudbyvenkat" width="120"/>](https://www.linkedin.com/in/cloudbyvenkat/)<br>**[Subbareddy (Venkata) Vundela — cloudbyvenkat](https://www.linkedin.com/in/cloudbyvenkat/)**<br>DevOps Architect | [<img src="https://i.ibb.co/Myz1XV9P/vjcloudops.jpg" alt="Vijesh Vijayan" width="120"/>](https://www.linkedin.com/in/vjcloudops/)<br>**[Vijesh Vijayan](https://www.linkedin.com/in/vjcloudops/)**<br>Cloud Reliability |
+| [<img src="https://i.ibb.co/spxhspRk/roopashreeramadas.jpg" alt="Roopashree R" width="120"/>](https://www.linkedin.com/in/roopashreeramadas/)<br>**[Roopashree R](https://www.linkedin.com/in/roopashreeramadas/)**<br>DevOps Practitioner | [<img src="https://ui-avatars.com/api/?name=Vibin+Cholayil&background=0078FF&color=fff&size=120" alt="Vibin Cholayil" width="120"/>](https://www.linkedin.com/in/techupvibin/)<br>**[Vibin Cholayil](https://www.linkedin.com/in/techupvibin/)**<br>Cloud Automation | [<img src="https://i.ibb.co/27yd4gVH/bavicnative.jpg" alt="Bavithran M (alt)" width="120"/>](https://www.linkedin.com/in/bavicnative/)<br>**[Bavithran M](https://www.linkedin.com/in/bavicnative/)**<br>Founder & Architect | [<img src="https://i.ibb.co/gbNv1WXr/architectraghu.jpg" alt="Raghavendra Ramesh (alt)" width="120"/>](https://linkedin.com/in/raghavendracloud)<br>**[Raghavendra Ramesh](https://linkedin.com/in/raghavendracloud)**<br>Cloud Strategist | [<img src="https://i.ibb.co/Vc6X83Kh/jaffercloudpro.jpg" alt="Jaffer Ali (alt)" width="120"/>](https://www.linkedin.com/in/jaffercloudpro/)<br>**[Jaffer Ali](https://www.linkedin.com/in/jaffercloudpro/)**<br>Automation Lead |
 
 ---
 
 ## 🏗️ Cloud DevOps Solution Architects
 
-Architects who design scalable DevOps systems, guide migrations, and mentor engineers to think end-to-end.
+Architects who design scalable DevOps systems, lead migrations, and mentor engineers to think end-to-end.
 
 | | | | | |
 |:--:|:--:|:--:|:--:|:--:|
 | [<img src="https://i.ibb.co/p6BVDbhq/riswanrajacloud.jpg" alt="RISWAN RAJA A" width="120"/>](https://www.linkedin.com/in/riswanrajacloud/)<br>**[RISWAN RAJA A](https://www.linkedin.com/in/riswanrajacloud/)**<br>Solution Architect | [<img src="https://i.ibb.co/gbNv1WXr/architectraghu.jpg" alt="Raghavendra Ramesh" width="120"/>](https://linkedin.com/in/raghavendracloud)<br>**[Raghavendra Ramesh](https://linkedin.com/in/raghavendracloud)**<br>Cloud Strategist | [<img src="https://i.ibb.co/TDbXjgsf/nikitaoncloud.jpg" alt="Nikita" width="120"/>](https://www.linkedin.com/in/nikitaoncloud/)<br>**[Nikita](https://www.linkedin.com/in/nikitaoncloud/)**<br>Solutions Advisor | [<img src="https://i.ibb.co/27yd4gVH/bavicnative.jpg" alt="Bavithran M" width="120"/>](https://www.linkedin.com/in/bavicnative/)<br>**[Bavithran M](https://www.linkedin.com/in/bavicnative/)**<br>Cloud Architect | [<img src="https://i.ibb.co/Vc6X83Kh/jaffercloudpro.jpg" alt="Jaffer Ali" width="120"/>](https://www.linkedin.com/in/jaffercloudpro/)<br>**[Jaffer Ali](https://www.linkedin.com/in/jaffercloudpro/)**<br>Automation Architect |
-| [<img src="https://ui-avatars.com/api/?name=Rangaraj+Balakrishnan&background=0078FF&color=fff&size=120" alt="Rangaraj Balakrishnan" width="120"/>](https://www.linkedin.com/in/rajcloudx/)<br>**[Rangaraj Balakrishnan](https://www.linkedin.com/in/rajcloudx/)**<br>Security Architect | [<img src="https://ui-avatars.com/api/?name=Sathish+Kannan+R&background=0078FF&color=fff&size=120" alt="Sathish Kannan R" width="120"/>](https://www.linkedin.com/in/sathisraki/)<br>**[Sathish Kannan R](https://www.linkedin.com/in/sathisraki/)**<br>Systems Designer | [<img src="https://ui-avatars.com/api/?name=Arun+Vaidyanathan&background=0078FF&color=fff&size=120" alt="Arun Vaidyanathan" width="120"/>](https://www.linkedin.com/in/arunvtechno/)<br>**[Arun Vaidyanathan](https://www.linkedin.com/in/arunvtechno/)**<br>Migration Lead | [<img src="https://ui-avatars.com/api/?name=Subbareddy+Vundela&background=0078FF&color=fff&size=120" alt="Subbareddy Vundela" width="120"/>](https://www.linkedin.com/in/venkatbyte/)<br>**[Subbareddy (Venkata) Vundela](https://www.linkedin.com/in/venkatbyte/)**<br>Enterprise Architect | [<img src="https://i.ibb.co/Myz1XV9P/vjcloudops.jpg" alt="Vijesh Vijayan" width="120"/>](https://www.linkedin.com/in/vjcloudops/)<br>**[Vijesh Vijayan](https://www.linkedin.com/in/vjcloudops/)**<br>Reliability Lead |
+| [<img src="https://ui-avatars.com/api/?name=Rangaraj+Balakrishnan&background=0078FF&color=fff&size=120" alt="Rangaraj Balakrishnan" width="120"/>](https://www.linkedin.com/in/rajcloudx/)<br>**[Rangaraj Balakrishnan](https://www.linkedin.com/in/rajcloudx/)**<br>Security Architect | [<img src="https://ui-avatars.com/api/?name=Sathish+Kannan+R&background=0078FF&color=fff&size=120" alt="Sathish Kannan R" width="120"/>](https://www.linkedin.com/in/sathisraki/)<br>**[Sathish Kannan R](https://www.linkedin.com/in/sathisraki/)**<br>Systems Designer | [<img src="https://ui-avatars.com/api/?name=Arun+Vaidyanathan&background=0078FF&color=fff&size=120" alt="Arun Vaidyanathan" width="120"/>](https://www.linkedin.com/in/arunvtechno/)<br>**[Arun Vaidyanathan](https://www.linkedin.com/in/arunvtechno/)**<br>Migration Lead | [<img src="https://i.ibb.co/FLQ5R9vw/cloudbyvenkat.jpg" alt="cloudbyvenkat" width="120"/>](https://www.linkedin.com/in/cloudbyvenkat/)<br>**[cloudbyvenkat](https://www.linkedin.com/in/cloudbyvenkat/)**<br>Platform Architect | [<img src="https://i.ibb.co/Myz1XV9P/vjcloudops.jpg" alt="Vijesh Vijayan" width="120"/>](https://www.linkedin.com/in/vjcloudops/)<br>**[Vijesh Vijayan](https://www.linkedin.com/in/vjcloudops/)**<br>Reliability Lead |
 | [<img src="https://i.ibb.co/8LjJ5kYB/learnwithpradnya.jpg" alt="Pradnya Deshpande" width="120"/>](https://www.linkedin.com/in/clouddevopswithpradnya/)<br>**[Pradnya Deshpande](https://www.linkedin.com/in/clouddevopswithpradnya/)**<br>Infrastructure Lead | [<img src="https://i.ibb.co/qFYSNhkM/Its-Karthik-Sekar.jpg" alt="Karthik Sekar" width="120"/>](https://www.linkedin.com/in/karthiksekars/)<br>**[Karthik Sekar](https://www.linkedin.com/in/karthiksekars/)**<br>Solutions Lead |  |  |  |
 
 ---
@@ -224,39 +223,48 @@ Professionals blending Python, AI, and Data Science to deliver practical ML and 
 
 ## 💻 Full Stack Developers
 
-| | | | | |
-|:--:|:--:|:--:|:--:|:--:|
-| [<img src="https://i.ibb.co/vxR3KJxw/testitwithsasi.jpg" alt="Sasi Rekha Golla" width="120"/>](https://www.linkedin.com/in/testitwithsasi/)<br>**[Sasi Rekha Golla](https://www.linkedin.com/in/testitwithsasi/)**<br>Full Stack Dev | [<img src="https://ui-avatars.com/api/?name=Naveen+Kumar+K&background=0078FF&color=fff&size=120" alt="Naveen Kumar K" width="120"/>](https://www.linkedin.com/in/naveencloud/)<br>**[Naveen Kumar K](https://www.linkedin.com/in/naveencloud/)**<br>Backend Engineer | [<img src="https://ui-avatars.com/api/?name=Tejas+Lamkhade&background=0078FF&color=fff&size=120" alt="Tejas Lamkhade" width="120"/>](https://www.linkedin.com/in/tejaslamkhade/)<br>**[Tejas Lamkhade](https://www.linkedin.com/in/tejaslamkhade/)**<br>Frontend Engineer |  |  |
+| | | |
+|:--:|:--:|:--:|
+| [<img src="https://i.ibb.co/vxR3KJxw/testitwithsasi.jpg" alt="Sasi Rekha Golla" width="120"/>](https://www.linkedin.com/in/testitwithsasi/)<br>**[Sasi Rekha Golla](https://www.linkedin.com/in/testitwithsasi/)**<br>Full Stack Dev | [<img src="https://ui-avatars.com/api/?name=Naveen+Kumar+K&background=0078FF&color=fff&size=120" alt="Naveen Kumar K" width="120"/>](https://www.linkedin.com/in/naveencloud/)<br>**[Naveen Kumar K](https://www.linkedin.com/in/naveencloud/)**<br>Backend Engineer | [<img src="https://ui-avatars.com/api/?name=Tejas+Lamkhade&background=0078FF&color=fff&size=120" alt="Tejas Lamkhade" width="120"/>](https://www.linkedin.com/in/tejaslamkhade/)<br>**[Tejas Lamkhade](https://www.linkedin.com/in/tejaslamkhade/)**<br>Frontend Engineer |
 
 ---
 
-## 👩‍💼 Co-Leaders
+## 👩‍💼 Co-Leaders & Community Leads
 
-| | | | | |
-|:--:|:--:|:--:|:--:|:--:|
-| [<img src="https://i.ibb.co/Q3tQ6zjR/sankari-cloud.jpg" alt="Siva Sankari" width="120"/>](https://www.linkedin.com/in/sankari-cloud)<br>**[Siva Sankari](https://www.linkedin.com/in/sankari-cloud)**<br>Program Co-Lead | [<img src="https://i.ibb.co/Mx8SNRZc/techopsbysonali.jpg" alt="Sonali Kurade" width="120"/>](https://www.linkedin.com/in/techopsbysonali/)<br>**[Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/)**<br>Regional Co-Lead | [<img src="https://i.ibb.co/gZj5Gs4R/reshmawithai.jpg" alt="Reshma S" width="120"/>](https://www.linkedin.com/in/reshmawithai/)<br>**[Reshma S](https://www.linkedin.com/in/reshmawithai/)**<br>AI Co-Lead | [<img src="https://i.ibb.co/0y8RYbxm/learnwithmona.jpg" alt="Monisha Gangadhareshwara" width="120"/>](https://www.linkedin.com/in/learnwithmona/)<br>**[Monisha Gangadhareshwara](https://www.linkedin.com/in/learnwithmona/)**<br>Community Lead | [<img src="https://i.ibb.co/203kC2JT/anithadigitalhub.jpg" alt="Anitha" width="120"/>](https://www.linkedin.com/in/anithadigital)<br>**[Anitha](https://www.linkedin.com/in/anithadigital)**<br>Digital Lead |
-
----
-
-## 🧭 Career Coaches
-
-| | | | | |
-|:--:|:--:|:--:|:--:|:--:|
-| [<img src="https://i.ibb.co/21psWvpC/subhamentor.jpg" alt="Subhashree RK" width="120"/>](https://www.linkedin.com/in/subhamentor/)<br>**[Subhashree RK](https://www.linkedin.com/in/subhamentor/)**<br>Career Coach | [<img src="https://ui-avatars.com/api/?name=Fizza+Saleem&background=0078FF&color=fff&size=120" alt="Fizza Saleem" width="120"/>](https://www.linkedin.com/in/careerwithfizzasaleem/)<br>**[Fizza Saleem](https://www.linkedin.com/in/careerwithfizzasaleem/)**<br>Interview Coach | [<img src="https://i.ibb.co/0y8RYbxm/learnwithmona.jpg" alt="Monisha Gangadhareshwara" width="120"/>](https://www.linkedin.com/in/learnwithmona/)<br>**[Monisha Gangadhareshwara](https://www.linkedin.com/in/learnwithmona/)**<br>Placement Coach |  |  |
+| | | | |
+|:--:|:--:|:--:|:--:|
+| [<img src="https://i.ibb.co/Q3tQ6zjR/sankari-cloud.jpg" alt="Siva Sankari" width="120"/>](https://www.linkedin.com/in/sankari-cloud)<br>**[Siva Sankari](https://www.linkedin.com/in/sankari-cloud)**<br>Program Co-Lead | [<img src="https://i.ibb.co/Mx8SNRZc/techopsbysonali.jpg" alt="Sonali Kurade" width="120"/>](https://www.linkedin.com/in/techopsbysonali/)<br>**[Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/)**<br>Regional Co-Lead | [<img src="https://i.ibb.co/gZj5Gs4R/reshmawithai.jpg" alt="Reshma S" width="120"/>](https://www.linkedin.com/in/reshmawithai/)<br>**[Reshma S](https://www.linkedin.com/in/reshmawithai/)**<br>AI Co-Lead | [<img src="https://i.ibb.co/0y8RYbxm/learnwithmona.jpg" alt="Monisha Gangadhareshwara" width="120"/>](https://www.linkedin.com/in/learnwithmona/)<br>**[Monisha Gangadhareshwara](https://www.linkedin.com/in/learnwithmona/)**<br>Community Lead |
 
 ---
 
-## 🤝 Franchisee Collaboration Leaders
+## 🧭 Career Coaches & Franchise Leaders
 
-| | | | | |
-|:--:|:--:|:--:|:--:|:--:|
-| [<img src="https://i.ibb.co/21psWvpC/subhamentor.jpg" alt="Subhashree RK" width="120"/>](https://www.linkedin.com/in/subhamentor/)<br>**[Subhashree RK](https://www.linkedin.com/in/subhamentor/)**<br>Franchise Lead | [<img src="https://i.ibb.co/0y8RYbxm/learnwithmona.jpg" alt="Monisha Gangadhareshwara" width="120"/>](https://www.linkedin.com/in/learnwithmona/)<br>**[Monisha Gangadhareshwara](https://www.linkedin.com/in/learnwithmona/)**<br>Partnership Lead | [<img src="https://i.ibb.co/Q3tQ6zjR/sankari-cloud.jpg" alt="Siva Sankari" width="120"/>](https://www.linkedin.com/in/sankari-cloud)<br>**[Siva Sankari](https://www.linkedin.com/in/sankari-cloud)**<br>Regional Lead | [<img src="https://i.ibb.co/Mx8SNRZc/techopsbysonali.jpg" alt="Sonali Kurade" width="120"/>](https://www.linkedin.com/in/techopsbysonali/)<br>**[Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/)**<br>Collab Lead |  |
+| | | |
+|:--:|:--:|:--:|
+| [<img src="https://i.ibb.co/21psWvpC/subhamentor.jpg" alt="Subhashree RK" width="120"/>](https://www.linkedin.com/in/subhamentor/)<br>**[Subhashree RK](https://www.linkedin.com/in/subhamentor/)**<br>Career Coach | [<img src="https://ui-avatars.com/api/?name=Fizza+Saleem&background=0078FF&color=fff&size=120" alt="Fizza Saleem" width="120"/>](https://www.linkedin.com/in/careerwithfizzasaleem/)<br>**[Fizza Saleem](https://www.linkedin.com/in/careerwithfizzasaleem/)**<br>Interview Coach | [<img src="https://i.ibb.co/0y8RYbxm/learnwithmona.jpg" alt="Monisha Gangadhareshwara" width="120"/>](https://www.linkedin.com/in/learnwithmona/)<br>**[Monisha Gangadhareshwara](https://www.linkedin.com/in/learnwithmona/)**<br>Franchise & Partnerships |
+
+---
+
+## ✨ Connect & Collaborate
+
+<p align="center">
+  <a href="https://careerbytecode.substack.com"><img src="https://img.shields.io/badge/Website-Substack-222222?logo=substack&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/company/careerbytecode"><img src="https://img.shields.io/badge/LinkedIn-CareerByteCode-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/careerbytecode"><img src="https://img.shields.io/badge/GitHub-careerbytecode-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://medium.com"><img src="https://img.shields.io/badge/Medium-@CareerByteCode-00ab6c?logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://hashnode.com"><img src="https://img.shields.io/badge/Hashnode-@CareerByteCode-2962FF?logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+  <a href="https://youtube.com/@CareerByteCode"><img src="https://img.shields.io/badge/YouTube-@CareerByteCode-FF0000?logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
+
+<p align="center">
+  <strong>Want to partner, teach, or join as a mentor?</strong><br>
+  <a href="mailto:careerbytec@gmail.com">careerbytec@gmail.com</a> — tell us your area (Cloud / DevOps / AI), location, and availability.
+</p>
 
 ---
 
 <p align="center">
-✨ **#CareerByteCode — Where Mentors Build Leaders.** ✨  
-<br>
-🌐 [Website](https://careerbytecode.substack.com) • 💼 [LinkedIn](https://www.linkedin.com/company/careerbytecode) • 🧑‍💻 [GitHub](https://github.com/careerbytecode)
+  ✨ <strong>#CareerByteCode — Learn. Build. Lead.</strong> ✨  
+  <br>
+  Built with ❤️ by the CareerByteCode Mentor Community
 </p>
-
