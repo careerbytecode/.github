@@ -248,22 +248,31 @@ Professionals blending Python, AI, and Data Science to deliver practical ML and 
 ## ✨ Connect & Collaborate
 
 <p align="center">
+  <!-- single clean row of badges -->
   <a href="https://www.linkedin.com/company/careerbytecode" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Connect-on-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/🔗_Connect_on_LinkedIn- CareerByteCode-0A66C2?logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://careerbytecode.substack.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Read-Our-Newsletter-222222?logo=substack&logoColor=white" alt="Substack" />
+    <img src="https://img.shields.io/badge/📰_Newsletter-Substack-222222?logo=substack&logoColor=white" alt="Substack" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/careerbytecode" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GitHub-careerbytecode-181717?logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/💻_GitHub-careerbytecode-181717?logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
+<p align="center"><strong>Want to partner, teach, or join as a mentor?</strong></p>
+
 <p align="center">
-  <strong>Want to partner, teach, or join as a mentor?</strong><br>
-  Connect with us on LinkedIn — tell us your area (Cloud / DevOps / AI), location, and availability via the **Connect on LinkedIn** button above.
+  Connect with us on LinkedIn (click the **Connect on LinkedIn** badge above) and send a short message using the template below — we’ll get back to you within 3 business days.
+</p>
+
+<p align="center">
+  <em>Template (copy & paste)</em><br>
+  <code>
+    Hi CareerByteCode — I’m [Name], interested in partnering/mentoring. Area: [Cloud / DevOps / AI]. Location: [City, Country]. Best availability: [Weekdays / Weekends / Timezone].
+  </code>
 </p>
 
 ---
