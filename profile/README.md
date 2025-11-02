@@ -174,10 +174,14 @@ That’s the **CareerByteCode Way.**
 
 ---
 
-
 # 🌍 CareerByteCode – Where Mentors Build Leaders
 
 > A global community of **Cloud, DevOps, and AI professionals** transforming learners into industry-ready experts through real-time projects, mentorship, and leadership initiatives.
+
+<p align="center">
+  <!-- Organization banner (added per request) -->
+  <img src="https://i.ibb.co/NndmL66n/Cloud-By-Venkat.jpg" alt="CareerByteCode Banner" width="100%"/>
+</p>
 
 ---
 
@@ -250,17 +254,9 @@ Professionals blending Python, AI, and Data Science to deliver practical ML and 
 
 ---
 
-## 💻 CareerByteCode Web Developers
-
-| | | | | |
-|:--:|:--:|:--:|:--:|:--:|
-| [<img src="https://ui-avatars.com/api/?name=Naveen+Kumar+K&background=0078FF&color=fff&size=120" alt="Naveen Kumar K" width="120"/>](https://www.linkedin.com/in/naveencloud/)<br>**[Naveen Kumar K](https://www.linkedin.com/in/naveencloud/)**<br>Platform Dev | [<img src="https://ui-avatars.com/api/?name=Tejas+Balasaheb+Lamkhade&background=0078FF&color=fff&size=120" alt="Tejas Balasaheb Lamkhade" width="120"/>](https://www.linkedin.com/in/tejaslamkhade/)<br>**[Tejas Balasaheb Lamkhade](https://www.linkedin.com/in/tejaslamkhade/)**<br>UI Engineer | [<img src="https://ui-avatars.com/api/?name=Aakash+Daulat+Deshmane&background=0078FF&color=fff&size=120" alt="Aakash Daulat Deshmane" width="120"/>](https://www.linkedin.com/in/aakashdeshmane/)<br>**[Aakash Daulat Deshmane](https://www.linkedin.com/in/aakashdeshmane/)**<br>Automation Engineer | [<img src="https://ui-avatars.com/api/?name=Arjun+Shakthi+C&background=0078FF&color=fff&size=120" alt="Arjun Shakthi C" width="120"/>](https://www.linkedin.com/in/arjun-shakthi-c/)<br>**[Arjun Shakthi C](https://www.linkedin.com/in/arjun-shakthi-c/)**<br>Dev Engineer | [<img src="https://ui-avatars.com/api/?name=Sivaranjan+A&background=0078FF&color=fff&size=120" alt="Sivaranjan A" width="120"/>](https://www.linkedin.com/in/sivaaiexpert/)<br>**[Sivaranjan A](https://www.linkedin.com/in/sivaaiexpert/)**<br>ML & Platform |
-| [<img src="https://ui-avatars.com/api/?name=Gokhul+T+G&background=0078FF&color=fff&size=120" alt="Gokhul T G" width="120"/>](https://www.linkedin.com/in/g0khul)<br>**[Gokhul T G](https://www.linkedin.com/in/g0khul)**<br>Platform Ops |  |  |  |  |
-
----
-
 <p align="center">
 ✨ **#CareerByteCode — Where Mentors Build Leaders.** ✨  
 <br>
 🌐 [Website](https://careerbytecode.substack.com) • 💼 [LinkedIn](https://www.linkedin.com/company/careerbytecode) • 🧑‍💻 [GitHub](https://github.com/careerbytecode)
 </p>
+
