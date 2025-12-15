@@ -1,118 +1,124 @@
-# 🚀 CareerByteCode  
-### 🌍 The World’s Largest Real-Time Tech Projects & Leadership Platform  
+# ðŸš€ CareerByteCode  
+### ðŸŒ The Worldâ€™s Largest Real-Time Tech Projects & Leadership Platform  
 
-> **2.4M+ Learners • 103 Countries • One Global Mission — Build Future Tech Leaders**
+![Status](https://img.shields.io/badge/Status-Actively%20Building-brightgreen)
+![Learners](https://img.shields.io/badge/Learners-2.4M%2B-blue)
+![Countries](https://img.shields.io/badge/Countries-103-orange)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
+![Leadership](https://img.shields.io/badge/Focus-Tech%20Leadership-purple)
 
-CareerByteCode is not just a GitHub organization — it is a **global engineering movement**.  
-We empower learners and professionals to grow into **Cloud, DevOps, AI, and Engineering Leaders** through **real-time, production-grade projects**, mentorship, and community-driven learning.
+> **2.4M+ Learners â€¢ 103 Countries â€¢ One Global Mission â€” Build Future Tech Leaders**
+
+CareerByteCode is not just a GitHub organization â€” it is a **global engineering & leadership movement** ðŸŒ  
+We help learners and professionals become **Cloud, DevOps, AI, and Engineering Leaders** through **real-time, production-grade projects**, deep mentorship, and a powerful global community.
 
 ---
 
-## 🎯 Our Mission
+## ðŸŽ¯ Our Mission  
 
-To build a **leadership-first learning ecosystem** where engineers don’t just learn tools —  
+To build a **leadership-first learning ecosystem** where engineers donâ€™t just learn tools â€”  
 they **design systems, automate platforms, deploy at scale, and lead with confidence**.
 
-We focus on:
-- Execution over certificates  
-- Projects over theory  
-- Mentorship over isolation  
-- Leadership over job titles  
+ðŸ”‘ Our philosophy:
+- âœ… Execution over certificates  
+- âœ… Projects over theory  
+- âœ… Mentorship over isolation  
+- âœ… Leadership over job titles  
 
 ---
 
-## 🔥 What We Do
+## ðŸ”¥ What We Do  
 
-- ☁️ Cloud Architecture (Azure, AWS, GCP)
-- ⚙️ DevOps & Platform Engineering
-- 📈 Site Reliability Engineering (SRE)
-- 🤖 AI / ML & Python Engineering
-- 🧩 Full-Stack & Microservices Systems
-- 🏗️ Infrastructure as Code & Automation
-- 🌐 Open-Source Engineering
-- 👥 Leadership & Career Acceleration
-
----
-
-## 🧠 Core Values & Culture
-
-- 🚀 Real-world, production-grade learning  
-- 🤝 Community-first collaboration  
-- 🎓 Mentorship-led growth  
-- 🧠 Leadership mindset at every level  
-- 🌍 Global inclusion & knowledge sharing  
+- â˜ï¸ Cloud Architecture (Azure, AWS, GCP)  
+- âš™ï¸ DevOps & Platform Engineering  
+- ðŸ“ˆ Site Reliability Engineering (SRE)  
+- ðŸ¤– AI / ML & Python Engineering  
+- ðŸ§© Full-Stack & Microservices Systems  
+- ðŸ—ï¸ Infrastructure as Code & Automation  
+- ðŸŒ Open-Source Engineering  
+- ðŸ‘¥ Leadership & Career Acceleration  
 
 ---
 
-## 🛠️ Technology Stack
+## ðŸ§  Core Values & Culture  
 
-### ☁️ Cloud
-Azure • AWS • GCP  
-
-### ⚙️ DevOps & CI/CD
-GitHub Actions • Jenkins • GitLab  
-
-### 🏗️ Infrastructure as Code
-Terraform • Ansible • Bicep  
-
-### 🐳 Containers & Kubernetes
-Docker • Kubernetes  
-
-### 💻 Programming
-Python • Go • JavaScript • Bash  
-
-### 📊 Observability
-Prometheus • Grafana • Loki  
-
-### 🤖 AI / ML
-TensorFlow • PyTorch • HuggingFace  
+- ðŸš€ Real-world, production-grade learning  
+- ðŸ¤ Community-first collaboration  
+- ðŸŽ“ Mentorship-led growth  
+- ðŸ§  Leadership mindset at every level  
+- ðŸŒ Global inclusion & knowledge sharing  
 
 ---
 
-## 📁 Featured Enterprise-Grade Projects
+## ðŸ› ï¸ Technology Stack  
 
-- Production Kubernetes blueprints with ingress, TLS, monitoring  
-- Terraform enterprise-grade cloud foundations  
-- End-to-end CI/CD pipelines (GitHub Actions, Jenkins, GitOps)  
-- Microservices platforms with auth, gateway, and observability  
-- AI/ML deployment pipelines with monitoring  
-- Full observability stacks (Prometheus, Grafana, Loki)  
-- **100 Days Programs** (DevOps, Azure, Python, Kubernetes)
+### â˜ï¸ Cloud  
+Azure â€¢ AWS â€¢ GCP  
 
-All repositories are built to reflect **real industry scenarios**, not toy examples.
+### âš™ï¸ DevOps & CI/CD  
+GitHub Actions â€¢ Jenkins â€¢ GitLab  
 
----
+### ðŸ—ï¸ Infrastructure as Code  
+Terraform â€¢ Ansible â€¢ Bicep  
 
-## 🎓 Learning Tracks & Roadmaps
+### ðŸ³ Containers & Kubernetes  
+Docker â€¢ Kubernetes  
 
-- 🚀 100 Days of DevOps  
-- ☁️ 100 Days of Azure  
-- 🐍 100 Days of Python  
-- ☸️ 100 Days of Kubernetes  
-- 🤖 AI / ML Engineer Roadmap  
-- 🏗️ Cloud Architect Roadmap  
-- 🔧 Senior DevOps Engineer Roadmap  
+### ðŸ’» Programming  
+Python â€¢ Go â€¢ JavaScript â€¢ Bash  
 
----
+### ðŸ“Š Observability  
+Prometheus â€¢ Grafana â€¢ Loki  
 
-## 🌍 Achievements & Global Impact
-
-- 🌐 **2.4M+ learners worldwide**
-- 🗺️ **Community across 103 countries**
-- 📦 **Hundreds of real-time projects**
-- 👨‍💻 **Thousands of contributors**
-- 🎓 **Mentorship-driven growth**
-- 🚀 **One of the fastest-growing tech learning ecosystems**
+### ðŸ¤– AI / ML  
+TensorFlow â€¢ PyTorch â€¢ HuggingFace  
 
 ---
 
-# 🌐 CareerByteCode – Leadership & Mentors Network
+## ðŸ“ Featured Enterprise-Grade Projects  
+
+- ðŸš¢ Production Kubernetes blueprints (Ingress, TLS, Monitoring)  
+- ðŸ—ï¸ Enterprise Terraform cloud foundations  
+- ðŸ” End-to-end CI/CD pipelines (GitHub Actions, Jenkins, GitOps)  
+- ðŸ§© Microservices platforms with Auth, Gateway & Observability  
+- ðŸ¤– AI/ML deployment pipelines with monitoring  
+- ðŸ“Š Full observability stacks (Prometheus, Grafana, Loki)  
+- ðŸ”¥ **100 Days Programs** (DevOps, Azure, Python, Kubernetes)  
+
+> âš ï¸ Every repository mirrors **real industry scenarios** â€” not toy demos.
+
+---
+
+## ðŸŽ“ Learning Tracks & Roadmaps  
+
+- ðŸš€ 100 Days of DevOps  
+- â˜ï¸ 100 Days of Azure  
+- ðŸ 100 Days of Python  
+- â˜¸ï¸ 100 Days of Kubernetes  
+- ðŸ¤– AI / ML Engineer Roadmap  
+- ðŸ—ï¸ Cloud Architect Roadmap  
+- ðŸ”§ Senior DevOps Engineer Roadmap  
+
+---
+
+## ðŸŒ Achievements & Global Impact  
+
+- ðŸŒ **2.4M+ learners worldwide**  
+- ðŸ—ºï¸ **Community across 103 countries**  
+- ðŸ“¦ **Hundreds of real-time projects**  
+- ðŸ‘¨â€ðŸ’» **Thousands of contributors**  
+- ðŸŽ“ **Mentorship-driven growth**  
+- ðŸš€ **One of the fastest-growing tech learning ecosystems**  
+
+---
+
+# ðŸŒ Leadership & Mentors Network  
 
 CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engineering leaders**.
 
 ---
 
-## 🧠 Core Cloud & DevOps Mentors
+## ðŸ§  Core Cloud & DevOps Mentors  
 
 | Name | Role |
 |-----|------|
@@ -121,7 +127,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Raghavendra Ramesh](https://linkedin.com/in/raghavendracloud) | CI/CD Specialist |
 | [Nikita](https://www.linkedin.com/in/nikitaoncloud/) | DevOps Evangelist |
 | [Bavithran M](https://www.linkedin.com/in/bavicnative/) | Founder & Architect |
-| [Pradnya Deshpande](https://www.linkedin.com/in/clouddevopswithpradnya/) | Infrastructure as Code (IaC) Mentor |
+| [Pradnya Deshpande](https://www.linkedin.com/in/clouddevopswithpradnya/) | IaC Mentor |
 | [Rakshita Belwal](https://www.linkedin.com/in/rakshitabelwal/) | Cloud Practitioner |
 | [Manoj Savukar](https://www.linkedin.com/in/manojwithdevopsai) | DevOps + AI Mentor |
 | [Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/) | Senior DevOps Coach |
@@ -133,9 +139,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 
 ---
 
-## 🏗️ Cloud DevOps Solution Architects
-
-Architects designing scalable platforms and leading end-to-end DevOps transformations.
+## ðŸ—ï¸ Cloud DevOps Solution Architects  
 
 | Name | Specialization |
 |----|----------------|
@@ -145,41 +149,37 @@ Architects designing scalable platforms and leading end-to-end DevOps transforma
 | [Bavithran M](https://www.linkedin.com/in/bavicnative/) | Cloud Architecture |
 | [Rangaraj Balakrishnan](https://www.linkedin.com/in/rajcloudx/) | Security Architecture |
 | [Arun Vaidyanathan](https://www.linkedin.com/in/arunvtechno/) | Migration Leadership |
-| [Subbareddy (cloudbyvenkat)](https://www.linkedin.com/in/cloudbyvenkat/) | Platform Architecture |
+| [Subbareddy](https://www.linkedin.com/in/cloudbyvenkat/) | Platform Architecture |
 | [Vijesh Vijayan](https://www.linkedin.com/in/vjcloudops/) | Reliability Engineering |
 
 ---
 
-## 🤖 Python & AI Enthusiasts
-
-Professionals working across **Python, AI, ML, and Data Science**.
+## ðŸ¤– Python & AI Leaders  
 
 | Name | Focus Area |
 |----|-----------|
 | [Reshma S](https://www.linkedin.com/in/reshmawithai/) | AI Mentor |
+| [Kiruthiga Ravi](https://www.linkedin.com/in/aiwithkiruthiga/) | AI Engineer |
+| [Yogan](https://www.linkedin.com/in/yoganawithai/) | AI / ML Leader |
 | [Lavanya R](https://www.linkedin.com/in/iamlavanyar/) | Data Scientist |
 | [Anitha](https://www.linkedin.com/in/anithadigital) | AI Educator |
-| [Kiruthiga Ravi](https://www.linkedin.com/in/aiwithkiruthiga/) | AI Engineer |
 | [Dharshini Karthikeyan](https://www.linkedin.com/in/askdharshiniai/) | Data Mentor |
 | [Kruthica T](https://www.linkedin.com/in/kruthicawithai/) | Python Trainer |
 | [Jenefer Rexee George](https://www.linkedin.com/in/jenwithai/) | NLP Specialist |
 | [Charisma Devi Polothu](https://www.linkedin.com/in/charismawithai/) | ML Practitioner |
 | [Tejaswini Muralikrishnan](https://www.linkedin.com/in/tejaswini-muralikrishnan-377ab521b/) | Data Educator |
-| [Monisha Gangadhareshwara](https://www.linkedin.com/in/learnwithmona/) | AI Co-Lead |
-| [Rakshita Belwal](https://www.linkedin.com/in/rakshitabelwal/) | AI & DevOps |
 
 ---
 
-## 💻 Full Stack Developers
+## â˜ï¸ Salesforce Experts  
 
-| Name | Role |
-|----|------|
-| [Naveen Kumar K](https://www.linkedin.com/in/naveencloud/) | Backend Engineer |
-| [Tejas Lamkhade](https://www.linkedin.com/in/tejaslamkhade/) | Frontend Engineer |
+| Name | Expertise |
+|----|----------|
+| [Komala](https://www.linkedin.com/in/komalasalesforce/) | Salesforce Architect & CRM Expert |
 
 ---
 
-## 👩‍💼 Co-Leaders & Community Leads
+## ðŸ‘©â€ðŸ’¼ Co-Leaders & Community Leads  
 
 | Name | Responsibility |
 |----|----------------|
@@ -187,35 +187,43 @@ Professionals working across **Python, AI, ML, and Data Science**.
 | [Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/) | Regional Co-Lead |
 | [Reshma S](https://www.linkedin.com/in/reshmawithai/) | AI Co-Lead |
 | [Monisha Gangadhareshwara](https://www.linkedin.com/in/learnwithmona/) | Community Lead |
+| [Asha](https://www.linkedin.com/in/ashaxdev/) | Developer Advocate & Community Co-Lead |
+| [Anitha](https://www.linkedin.com/in/anithadigital) | AI Educator & Community Co-Lead |
 
 ---
 
-## 🧭 Franchise & Strategic Partnerships
+## ðŸŒ Connect & Collaborate  
 
-| Name | Area |
-|----|------|
-| [Monisha Gangadhareshwara](https://www.linkedin.com/in/learnwithmona/) | Franchise & Partnerships |
+ðŸ”— **LinkedIn Company**  
+https://www.linkedin.com/company/careerbytecode  
 
----
+ðŸ“° **Newsletter**  
+https://careerbytecode.substack.com  
 
-## 🌐 Connect & Collaborate
+ðŸ’» **GitHub Organization**  
+https://github.com/careerbytecode  
 
-- 🔗 **LinkedIn Company Page**  
-  https://www.linkedin.com/company/careerbytecode  
+ðŸ“º **YouTube**  
+https://youtube.com/@CareerByteCode  
 
-- 📰 **Newsletter**  
-  https://careerbytecode.substack.com  
-
-- 💻 **GitHub Organization**  
-  https://github.com/careerbytecode  
+âœï¸ **Medium**  
+https://medium.com/careerbytecode  
 
 ---
 
-## 🤝 Want to Partner, Teach, or Join as a Mentor?
+## ðŸš€ Join the CareerByteCode Movement  
+
+At CareerByteCode, we donâ€™t just teach tech â€” **we create leaders** ðŸŒŸ  
+Learn with real projects. Build visibility. Grow with mentors. Lead globally.
+
+---
+
+## ðŸ¤ Want to Partner, Teach, or Join as a Mentor?
 
 ```text
 Hi CareerByteCode,
-I’m [Your Name] and I’m interested in partnering / mentoring.
-Domain: [Cloud / DevOps / AI / Full Stack]
-Location: [City, Country]
-Availability: [Weekdays / Weekends / Timezone]
+Iâ€™m [Your Name] and Iâ€™m interested in partnering / mentoring.
+
+Domain: Cloud / DevOps / AI / Full Stack / Salesforce
+Location: City, Country
+Availability: Weekdays / Weekends / Timezone
