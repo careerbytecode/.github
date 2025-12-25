@@ -132,7 +132,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Manoj Savukar](https://www.linkedin.com/in/manojwithdevopsai) | DevOps + AI Mentor |
 | [Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/) | Senior DevOps Coach |
 | [Shruthi](https://www.linkedin.com/in/learnwithshruthi/) | Hands-on Trainer |
-| [Ayesha Masood](https://www.linkedin.com/in/ayesha-masood054/) | Cloud Automation |
+| [Ayesha Masood](https://www.linkedin.com/in/ayeshawithcloud/) | Cloud Automation |
 | [Arun Vaidyanathan](https://www.linkedin.com/in/arunvtechno/) | Cloud Migration Specialist |
 | [Subbareddy (cloudbyvenkat)](https://www.linkedin.com/in/cloudbyvenkat/) | DevOps Architect |
 | [Vijesh Vijayan](https://www.linkedin.com/in/vjcloudops/) | Cloud Reliability Engineer |
@@ -167,7 +167,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Kruthica T](https://www.linkedin.com/in/kruthicawithai/) | Python Trainer |
 | [Jenefer Rexee George](https://www.linkedin.com/in/jenwithai/) | NLP Specialist |
 | [Charisma Devi Polothu](https://www.linkedin.com/in/charismawithai/) | ML Practitioner |
-| [Tejaswini Muralikrishnan](https://www.linkedin.com/in/tejaswini-muralikrishnan-377ab521b/) | Data Educator |
+| [Tejaswini Muralikrishnan](https://www.linkedin.com/in/llmwithteja/) | Data Educator |
 
 ---
 
@@ -183,7 +183,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 
 | Name | Responsibility |
 |----|----------------|
-| [Siva Sankari](https://www.linkedin.com/in/sankari-cloud) | Program Co-Lead |
+| [Siva Sankari](https://www.linkedin.com/in/learnwithsankari/) | Program Co-Lead |
 | [Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/) | Regional Co-Lead |
 | [Reshma S](https://www.linkedin.com/in/reshmawithai/) | AI Co-Lead |
 | [Monisha Gangadhareshwara](https://www.linkedin.com/in/learnwithmona/) | Community Lead |
