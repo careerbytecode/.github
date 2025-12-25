@@ -169,6 +169,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Charisma Devi Polothu](https://www.linkedin.com/in/charismawithai/) | ML Practitioner |
 | [Tejaswini Muralikrishnan](https://www.linkedin.com/in/llmwithteja/) | Data Educator |
 | [Tanisha R A](https://www.linkedin.com/in/tanisharajesh/) | AI Passionate Leader |
+| [Gayathri P](https://www.linkedin.com/in/gayuwithai/) | AI Engineer |
 ---
 
 ## ☁️ Salesforce Experts  
