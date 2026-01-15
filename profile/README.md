@@ -125,16 +125,16 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [RISWAN RAJA A](https://www.linkedin.com/in/riswanrajacloud/) | CloudOps Engineer |
 | [Geetha S](https://www.linkedin.com/in/geethascloud/) | Azure Mentor |
 | [Raghavendra Ramesh](https://linkedin.com/in/raghavendracloud) | CI/CD Specialist |
-| [Nikita](https://www.linkedin.com/in/nikitaoncloud/) | DevOps Evangelist |
+| [Nikita Kulkarni](https://www.linkedin.com/in/nikitaoncloud/) | DevOps Evangelist |
 | [Bavithran M](https://www.linkedin.com/in/bavicnative/) | Founder & Architect |
 | [Pradnya Deshpande](https://www.linkedin.com/in/clouddevopswithpradnya/) | IaC Mentor |
 | [Rakshita Belwal](https://www.linkedin.com/in/rakshitabelwal/) | Cloud Practitioner |
 | [Manoj Savukar](https://www.linkedin.com/in/manojwithdevopsai) | DevOps + AI Mentor |
 | [Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/) | Senior DevOps Coach |
-| [Shruthi](https://www.linkedin.com/in/learnwithshruthi/) | Hands-on Trainer |
+| [Shruthi Chikkela](https://www.linkedin.com/in/learnwithshruthi/) | Hands-on Trainer |
 | [Ayesha Masood](https://www.linkedin.com/in/ayeshawithcloud/) | Cloud Automation |
 | [Arun Vaidyanathan](https://www.linkedin.com/in/arunvtechno/) | Cloud Migration Specialist |
-| [Subbareddy (cloudbyvenkat)](https://www.linkedin.com/in/cloudbyvenkat/) | DevOps Architect |
+| [Subbareddy (Venkata) Vundela](https://www.linkedin.com/in/cloudbyvenkat/) | DevOps Architect |
 | [Vijesh Vijayan](https://www.linkedin.com/in/vjcloudops/) | Cloud Reliability Engineer |
 
 ---
@@ -145,11 +145,11 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 |----|----------------|
 | [RISWAN RAJA A](https://www.linkedin.com/in/riswanrajacloud/) | Solution Architecture |
 | [Raghavendra Ramesh](https://linkedin.com/in/raghavendracloud) | Cloud Strategy |
-| [Nikita](https://www.linkedin.com/in/nikitaoncloud/) | Solutions Advisory |
+| [Nikita Kulkarni](https://www.linkedin.com/in/nikitaoncloud/) | Solutions Advisory |
 | [Bavithran M](https://www.linkedin.com/in/bavicnative/) | Cloud Architecture |
 | [Rangaraj Balakrishnan](https://www.linkedin.com/in/rajcloudx/) | Security Architecture |
 | [Arun Vaidyanathan](https://www.linkedin.com/in/arunvtechno/) | Migration Leadership |
-| [Subbareddy](https://www.linkedin.com/in/cloudbyvenkat/) | Platform Architecture |
+| [Subbareddy (Venkata) Vundela](https://www.linkedin.com/in/cloudbyvenkat/) | Platform Architecture |
 | [Vijesh Vijayan](https://www.linkedin.com/in/vjcloudops/) | Reliability Engineering |
 
 ---
@@ -160,7 +160,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 |----|-----------|
 | [Reshma S](https://www.linkedin.com/in/reshmawithai/) | AI Mentor |
 | [Kiruthiga Ravi](https://www.linkedin.com/in/aiwithkiruthiga/) | AI Engineer |
-| [Yogan](https://www.linkedin.com/in/yoganawithai/) | AI / ML Leader |
+| [Yogana S](https://www.linkedin.com/in/yoganawithai/) | AI / ML Leader |
 | [Lavanya R](https://www.linkedin.com/in/iamlavanyar/) | Data Scientist |
 | [Anitha](https://www.linkedin.com/in/anithadigital) | AI Educator |
 | [Dharshini Karthikeyan](https://www.linkedin.com/in/askdharshiniai/) | Data Mentor |
@@ -170,6 +170,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Tejaswini Muralikrishnan](https://www.linkedin.com/in/llmwithteja/) | Data Educator |
 | [Tanisha R A](https://www.linkedin.com/in/tanisharajesh/) | AI Passionate Leader |
 | [Gayathri P](https://www.linkedin.com/in/gayuwithai/) | AI Engineer |
+| [Daisy Grace Thomas](https://www.linkedin.com/in/daisywithai) | AI Engineer |
 ---
 
 ## ☁️ Salesforce Experts  
@@ -178,6 +179,30 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 |----|----------|
 | [Komala](https://www.linkedin.com/in/komalasalesforce/) | Salesforce Architect & CRM Expert |
 
+---
+## ☁️ FullStack Developers  
+
+| Name | Expertise |
+|----|----------|
+| [Minithra S](https://www.linkedin.com/in/minithras/) | FullStack Developer |
+| [Pradeepa Chandrasekaran](https://www.linkedin.com/in/pradeepafsd/) | FullStack Developer |
+---
+
+## ☁️ Telecom Product leader  
+
+| Name | Expertise |
+|----|----------|
+| [Kapil Lakhanpal](https://www.linkedin.com/in/kl5gnexus/) | Chief Product Officer (CPO) in a Tech or Telecom organization |
+
+---
+
+
+## ☁️ SAAS Product Owner  
+
+| Name | Expertise |
+|----|----------|
+| [Navdeep Kaur](https://www.linkedin.com/in/leadwithnav/) | Cloud Native Solutions |
+| [Raghavendra Ramesh](https://linkedin.com/in/raghavendracloud) | Cloud Strategy |
 ---
 
 ## 👩‍💼 Co-Leaders & Community Leads  
