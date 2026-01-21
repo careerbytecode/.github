@@ -136,7 +136,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Arun Vaidyanathan](https://www.linkedin.com/in/arunvtechno/) | Cloud Migration Specialist |
 | [Subbareddy (Venkata) Vundela](https://www.linkedin.com/in/cloudbyvenkat/) | DevOps Architect |
 | [Vijesh Vijayan](https://www.linkedin.com/in/vjcloudops/) | Cloud Reliability Engineer |
-
+| [Infantus Godfrey](https://www.linkedin.com/in/infantusgodfrey/) | Cloud DevOps Engineer |
 ---
 
 ## 🏗️ Cloud DevOps Solution Architects  
@@ -165,12 +165,23 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Anitha](https://www.linkedin.com/in/anithadigital) | AI Educator |
 | [Dharshini Karthikeyan](https://www.linkedin.com/in/askdharshiniai/) | Data Mentor |
 | [Kruthica T](https://www.linkedin.com/in/kruthicawithai/) | Python Trainer |
+| [Swathipriya D.G](https://www.linkedin.com/in/swathi-priya-d-g-curious2upgrade/) | AI Engineer |
 | [Jenefer Rexee George](https://www.linkedin.com/in/jenwithai/) | NLP Specialist |
 | [Charisma Devi Polothu](https://www.linkedin.com/in/charismawithai/) | ML Practitioner |
 | [Tejaswini Muralikrishnan](https://www.linkedin.com/in/llmwithteja/) | Data Educator |
 | [Tanisha R A](https://www.linkedin.com/in/tanisharajesh/) | AI Passionate Leader |
 | [Gayathri P](https://www.linkedin.com/in/gayuwithai/) | AI Engineer |
-| [Daisy Grace Thomas](https://www.linkedin.com/in/daisywithai) | AI Engineer |
+| [Daisy Grace Thomas](https://www.linkedin.com/in/daisy-grace-thomas-38034b189/) | AI Engineer |
+| [Kalaiselvi Kanagaraj](https://www.linkedin.com/in/kalaiselvi-kanagaraj-aa12a278/) | AI Engineer |
+| [Gayathri P](https://www.linkedin.com/in/gayuwithai/) | AI Engineer |
+---
+
+## ☁️ Data Experts  
+
+| Name | Expertise |
+|----|----------|
+| [Gitanjali Pekamwar](https://www.linkedin.com/in/gitanjaliondata/) | Data Architect |
+
 ---
 
 ## ☁️ Salesforce Experts  
@@ -186,6 +197,8 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 |----|----------|
 | [Minithra S](https://www.linkedin.com/in/minithras/) | FullStack Developer |
 | [Pradeepa Chandrasekaran](https://www.linkedin.com/in/pradeepafsd/) | FullStack Developer |
+| [Ankit Saw](https://www.linkedin.com/in/ankitsawdev) | FullStack Developer |
+| [Sasikumar S](https://www.linkedin.com/in/sasikumarstyle/) | Senior FullStack Developer |
 ---
 
 ## ☁️ Telecom Product leader  
