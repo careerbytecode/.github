@@ -198,6 +198,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Minithra S](https://www.linkedin.com/in/minithras/) | FullStack Developer |
 | [Pradeepa Chandrasekaran](https://www.linkedin.com/in/pradeepafsd/) | FullStack Developer |
 | [Ankit Saw](https://www.linkedin.com/in/ankitsawdev) | FullStack Developer |
+| [Naveen .G.R](https://www.linkedin.com/in/navixgr/) | FullStack Developer |
 | [Sasikumar S](https://www.linkedin.com/in/sasikumarstyle/) | Senior FullStack Developer |
 ---
 
