@@ -3,11 +3,11 @@
 
 ![Status](https://img.shields.io/badge/Status-Actively%20Building-brightgreen)
 ![Learners](https://img.shields.io/badge/Learners-2.4M%2B-blue)
-![Countries](https://img.shields.io/badge/Countries-103-orange)
+![Countries](https://img.shields.io/badge/Countries-105-orange)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
 ![Leadership](https://img.shields.io/badge/Focus-Tech%20Leadership-purple)
 
-> **2.4M+ Learners • 103 Countries • One Global Mission — Build Future Tech Leaders**
+> **2.4M+ Learners • 105 Countries • One Global Mission — Build Future Tech Leaders**
 
 CareerByteCode is not just a GitHub organization — it is a **global engineering & leadership movement** 🌍  
 We help learners and professionals become **Cloud, DevOps, AI, and Engineering Leaders** through **real-time, production-grade projects**, deep mentorship, and a powerful global community.
