@@ -125,7 +125,6 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [RISWAN RAJA A](https://www.linkedin.com/in/riswanrajacloud/) | CloudOps Engineer |
 | [Geetha S](https://www.linkedin.com/in/geethascloud/) | Azure Mentor |
 | [Raghavendra Ramesh](https://linkedin.com/in/raghavendracloud) | CI/CD Specialist |
-| [Nikita Kulkarni](https://www.linkedin.com/in/nikitaoncloud/) | DevOps Evangelist |
 | [Bavithran M](https://www.linkedin.com/in/bavicnative/) | Founder & Architect |
 | [Pradnya Deshpande](https://www.linkedin.com/in/clouddevopswithpradnya/) | IaC Mentor |
 | [Rakshita Belwal](https://www.linkedin.com/in/rakshitabelwal/) | Cloud Practitioner |
@@ -174,13 +173,8 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Daisy Grace Thomas](https://www.linkedin.com/in/daisy-grace-thomas-38034b189/) | AI Engineer |
 | [Kalaiselvi Kanagaraj](https://www.linkedin.com/in/kalaiselvi-kanagaraj-aa12a278/) | AI Engineer |
 | [Gayathri P](https://www.linkedin.com/in/gayuwithai/) | AI Engineer |
+| [Amritha Jayakumar](https://www.linkedin.com/in/amrithajkumar/) | AI Engineer |
 ---
-
-## ☁️ Data Experts  
-
-| Name | Expertise |
-|----|----------|
-| [Gitanjali Pekamwar](https://www.linkedin.com/in/gitanjaliondata/) | Data Architect |
 
 ---
 
@@ -227,7 +221,6 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/) | Regional Co-Lead |
 | [Reshma S](https://www.linkedin.com/in/reshmawithai/) | AI Co-Lead |
 | [Monisha Gangadhareshwara](https://www.linkedin.com/in/learnwithmona/) | Community Lead |
-| [Asha](https://www.linkedin.com/in/ashaxdev/) | Developer Advocate & Community Co-Lead |
 | [Anitha](https://www.linkedin.com/in/anithadigital) | AI Educator & Community Co-Lead |
 
 ---
