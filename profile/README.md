@@ -171,7 +171,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Daisy Grace Thomas](https://www.linkedin.com/in/daisy-grace-thomas-38034b189/) | AI Engineer |
 | [Kalaiselvi Kanagaraj](https://www.linkedin.com/in/kalaiselvi-kanagaraj-aa12a278/) | AI Engineer |
 | [Amritha Jayakumar](https://www.linkedin.com/in/amrithajkumar/) | AI Engineer |
-
+| [Parameshwari Ravichandran](https://www.linkedin.com/in/parameshwari-ravichandran-43b548299/) | AI Engineer |
 ---
 
 ---
@@ -181,6 +181,15 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | Name | Expertise |
 |----|----------|
 | [Komala](https://www.linkedin.com/in/komalasalesforce/) | Salesforce Architect & CRM Expert |
+
+
+---
+
+## ☁️ DATA Experts  
+
+| Name | Expertise |
+|----|----------|
+| [Ranjitha Narasimhamurthy](https://www.linkedin.com/in/narasimhamurthyranjitha/) | Data Architect |
 
 ---
 ## ☁️ FullStack Developers  
