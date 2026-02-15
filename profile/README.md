@@ -144,9 +144,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 |----|----------------|
 | [RISWAN RAJA A](https://www.linkedin.com/in/riswanrajacloud/) | Solution Architecture |
 | [Raghavendra Ramesh](https://linkedin.com/in/raghavendracloud) | Cloud Strategy |
-| [Nikita Kulkarni](https://www.linkedin.com/in/nikitaoncloud/) | Solutions Advisory |
 | [Bavithran M](https://www.linkedin.com/in/bavicnative/) | Cloud Architecture |
-| [Rangaraj Balakrishnan](https://www.linkedin.com/in/rajcloudx/) | Security Architecture |
 | [Arun Vaidyanathan](https://www.linkedin.com/in/arunvtechno/) | Migration Leadership |
 | [Subbareddy (Venkata) Vundela](https://www.linkedin.com/in/cloudbyvenkat/) | Platform Architecture |
 | [Vijesh Vijayan](https://www.linkedin.com/in/vjcloudops/) | Reliability Engineering |
@@ -172,8 +170,8 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Gayathri P](https://www.linkedin.com/in/gayuwithai/) | AI Engineer |
 | [Daisy Grace Thomas](https://www.linkedin.com/in/daisy-grace-thomas-38034b189/) | AI Engineer |
 | [Kalaiselvi Kanagaraj](https://www.linkedin.com/in/kalaiselvi-kanagaraj-aa12a278/) | AI Engineer |
-| [Gayathri P](https://www.linkedin.com/in/gayuwithai/) | AI Engineer |
 | [Amritha Jayakumar](https://www.linkedin.com/in/amrithajkumar/) | AI Engineer |
+
 ---
 
 ---
