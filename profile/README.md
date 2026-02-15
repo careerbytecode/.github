@@ -159,7 +159,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Kiruthiga Ravi](https://www.linkedin.com/in/aiwithkiruthiga/) | AI Engineer |
 | [Yogana S](https://www.linkedin.com/in/yoganawithai/) | AI / ML Leader |
 | [Lavanya R](https://www.linkedin.com/in/iamlavanyar/) | Data Scientist |
-| [Anitha](https://www.linkedin.com/in/anithadigital) | AI Educator |
+| [Anitha](https://www.linkedin.com/in/anidigitalhub/) | AI Educator |
 | [Dharshini Karthikeyan](https://www.linkedin.com/in/askdharshiniai/) | Data Mentor |
 | [Kruthica T](https://www.linkedin.com/in/kruthicawithai/) | Python Trainer |
 | [Swathipriya D.G](https://www.linkedin.com/in/swathi-priya-d-g-curious2upgrade/) | AI Engineer |
@@ -228,7 +228,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/) | Regional Co-Lead |
 | [Reshma S](https://www.linkedin.com/in/reshmawithai/) | AI Co-Lead |
 | [Monisha Gangadhareshwara](https://www.linkedin.com/in/learnwithmona/) | Community Lead |
-| [Anitha](https://www.linkedin.com/in/anithadigital) | AI Educator & Community Co-Lead |
+| [Anitha](https://www.linkedin.com/in/anidigitalhub/) | AI Educator & Community Co-Lead |
 
 ---
 
