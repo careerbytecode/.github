@@ -157,7 +157,6 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 |----|-----------|
 | [Reshma S](https://www.linkedin.com/in/reshmawithai/) | AI Mentor |
 | [Kiruthiga Ravi](https://www.linkedin.com/in/aiwithkiruthiga/) | AI Engineer |
-| [Yogana S](https://www.linkedin.com/in/yoganawithai/) | AI / ML Leader |
 | [Lavanya R](https://www.linkedin.com/in/iamlavanyar/) | Data Scientist |
 | [Anitha](https://www.linkedin.com/in/anidigitalhub/) | AI Educator |
 | [Dharshini Karthikeyan](https://www.linkedin.com/in/askdharshiniai/) | Data Mentor |
