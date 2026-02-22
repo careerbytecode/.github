@@ -219,14 +219,12 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Raghavendra Ramesh](https://linkedin.com/in/raghavendracloud) | Cloud Strategy |
 ---
 
-## 👩‍💼 Co-Leaders & Community Leads  
+## 👩‍💼 Co-Founders & Community Leads  
 
 | Name | Responsibility |
 |----|----------------|
-| [Siva Sankari](https://www.linkedin.com/in/learnwithsankari/) | Program Co-Lead |
-| [Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/) | Regional Co-Lead |
-| [Reshma S](https://www.linkedin.com/in/reshmawithai/) | AI Co-Lead |
-| [Monisha Gangadhareshwara](https://www.linkedin.com/in/learnwithmona/) | Community Lead |
+| [Siva Sankari](https://www.linkedin.com/in/learnwithsankari/) | Co-Founder |
+| [Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/) | Co-Founder |
 | [Anitha](https://www.linkedin.com/in/anidigitalhub/) | AI Educator & Community Co-Lead |
 
 ---
