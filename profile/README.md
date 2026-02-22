@@ -1,5 +1,3 @@
----
-
 ## 🌟 About CareerByteCode  
 ### 🚀 A Global Tech Leadership & Community Ecosystem
 
