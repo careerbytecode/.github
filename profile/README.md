@@ -183,14 +183,6 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 
 
 ---
-
-## ☁️ DATA Experts  
-
-| Name | Expertise |
-|----|----------|
-| [Ranjitha Narasimhamurthy](https://www.linkedin.com/in/narasimhamurthyranjitha/) | Data Architect |
-
----
 ## ☁️ FullStack Developers  
 
 | Name | Expertise |
