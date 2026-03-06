@@ -131,7 +131,6 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Manoj Savukar](https://www.linkedin.com/in/manojwithdevopsai) | DevOps + AI Mentor |
 | [Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/) | Senior DevOps Coach |
 | [Shruthi Chikkela](https://www.linkedin.com/in/learnwithshruthi/) | Hands-on Trainer |
-| [Ayesha Masood](https://www.linkedin.com/in/ayeshawithcloud/) | Cloud Automation |
 | [Arun Vaidyanathan](https://www.linkedin.com/in/arunvtechno/) | Cloud Migration Specialist |
 | [Subbareddy (Venkata) Vundela](https://www.linkedin.com/in/cloudbyvenkat/) | DevOps Architect |
 | [Vijesh Vijayan](https://www.linkedin.com/in/vjcloudops/) | Cloud Reliability Engineer |
@@ -169,8 +168,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Gayathri P](https://www.linkedin.com/in/gayuwithai/) | AI Engineer |
 | [Daisy Grace Thomas](https://www.linkedin.com/in/daisy-grace-thomas-38034b189/) | AI Engineer |
 | [Kalaiselvi Kanagaraj](https://www.linkedin.com/in/kalaiselvi-kanagaraj-aa12a278/) | AI Engineer |
-| [Amritha Jayakumar](https://www.linkedin.com/in/amrithajkumar/) | AI Engineer |
-| [Parameshwari Ravichandran](https://www.linkedin.com/in/parameshwari-ravichandran-43b548299/) | AI Engineer |
+
 ---
 
 ---
