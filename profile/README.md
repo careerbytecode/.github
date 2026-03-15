@@ -1,373 +1,245 @@
-# 🚀 CareerByteCode  
-### 🌍 The World’s Largest Real-Time Tech Projects & Leadership Platform  
+<div align="center">
 
-![Status](https://img.shields.io/badge/Status-Actively%20Building-brightgreen)
-![Learners](https://img.shields.io/badge/Learners-2.4M%2B-blue)
-![Countries](https://img.shields.io/badge/Countries-105-orange)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
-![Leadership](https://img.shields.io/badge/Focus-Tech%20Leadership-purple)
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628,1847c8,0ea5e9&height=220&section=header&text=CareerByteCode&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Top%20European%20Tech%20Brand%20%7C%20Global%20Learning%20%26%20Innovation%20Ecosystem&descAlignY=60&descSize=17" width="100%"/>
 
-> **2.4M+ Learners • 105 Countries • One Global Mission — Build Future Tech Leaders**
+<br/>
 
-CareerByteCode is not just a GitHub organization — it is a **global engineering & leadership movement** 🌍  
-We help learners and professionals become **Cloud, DevOps, AI, and Engineering Leaders** through **real-time, production-grade projects**, deep mentorship, and a powerful global community.
+<!-- LIVE STATUS -->
+<img src="https://img.shields.io/badge/🟢%20Status-Actively%20Building-10b981?style=for-the-badge&labelColor=0a1628"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🇪🇺%20Brand-Top%20European%20Tech-1847c8?style=for-the-badge&labelColor=0a1628"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Est.-2015-0ea5e9?style=for-the-badge&labelColor=0a1628"/>
 
----
+<br/><br/>
 
-## 🎯 Our Mission  
+<!-- STATS -->
+<img src="https://img.shields.io/badge/👥%20Learners-2.4M%2B-1847c8?style=for-the-badge&labelColor=0f1e35"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🌍%20Countries-105%2B-7c3aed?style=for-the-badge&labelColor=0f1e35"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📦%20Services-300%2B-0ea5e9?style=for-the-badge&labelColor=0f1e35"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⚡%20Experience-15%2B%20Years-10b981?style=for-the-badge&labelColor=0f1e35"/>
 
-To build a **leadership-first learning ecosystem** where engineers don’t just learn tools —  
-they **design systems, automate platforms, deploy at scale, and lead with confidence**.
+<br/><br/>
 
-🔑 Our philosophy:
-- ✅ Execution over certificates  
-- ✅ Projects over theory  
-- ✅ Mentorship over isolation  
-- ✅ Leadership over job titles  
+### 🚀 *Learn · Build · Collaborate · Earn*
 
----
+> **CareerByteCode** is not just a GitHub organization — it is a **global engineering & leadership movement** 🌍
+> helping professionals become Cloud, DevOps, AI, and Engineering Leaders through
+> **real-world technology collaboration** since 2015.
 
-## 🔥 What We Do  
+<br/>
 
-- ☁️ Cloud Architecture (Azure, AWS, GCP)  
-- ⚙️ DevOps & Platform Engineering  
-- 📈 Site Reliability Engineering (SRE)  
-- 🤖 AI / ML & Python Engineering  
-- 🧩 Full-Stack & Microservices Systems  
-- 🏗️ Infrastructure as Code & Automation  
-- 🌐 Open-Source Engineering  
-- 👥 Leadership & Career Acceleration  
+### 👇 Visit our full interactive profile page
 
----
+[![View Full Profile](https://img.shields.io/badge/🌐%20View%20Full%20Graphics%20Profile-careerbytecode.github.io-1847c8?style=for-the-badge&labelColor=0a1628&logoColor=white)](https://careerbytecode.github.io)
 
-## 🧠 Core Values & Culture  
+<sub>✨ Full page with animations, mentor cards, pillars, tech stack & more</sub>
 
-- 🚀 Real-world, production-grade learning  
-- 🤝 Community-first collaboration  
-- 🎓 Mentorship-led growth  
-- 🧠 Leadership mindset at every level  
-- 🌍 Global inclusion & knowledge sharing  
+</div>
 
 ---
 
-## 🛠️ Technology Stack  
+## 🎯 Our Mission
 
-### ☁️ Cloud  
-Azure • AWS • GCP  
+> To build a **leadership-first learning ecosystem** where engineers don't just learn tools —
+> they **design systems, automate platforms, deploy at scale, and lead with confidence.**
 
-### ⚙️ DevOps & CI/CD  
-GitHub Actions • Jenkins • GitLab  
-
-### 🏗️ Infrastructure as Code  
-Terraform • Ansible • Bicep  
-
-### 🐳 Containers & Kubernetes  
-Docker • Kubernetes  
-
-### 💻 Programming  
-Python • Go • JavaScript • Bash  
-
-### 📊 Observability  
-Prometheus • Grafana • Loki  
-
-### 🤖 AI / ML  
-TensorFlow • PyTorch • HuggingFace  
+| ✅ Execution over certificates | ✅ Projects over theory |
+|---|---|
+| ✅ Mentorship over isolation | ✅ Leadership over job titles |
 
 ---
 
-## 📁 Featured Enterprise-Grade Projects  
+## 🏛️ 7 Pillars of Growth
 
-- 🚢 Production Kubernetes blueprints (Ingress, TLS, Monitoring)  
-- 🏗️ Enterprise Terraform cloud foundations  
-- 🔁 End-to-end CI/CD pipelines (GitHub Actions, Jenkins, GitOps)  
-- 🧩 Microservices platforms with Auth, Gateway & Observability  
-- 🤖 AI/ML deployment pipelines with monitoring  
-- 📊 Full observability stacks (Prometheus, Grafana, Loki)  
-- 🔥 **100 Days Programs** (DevOps, Azure, Python, Kubernetes)  
+<table>
+<tr>
+<td width="33%" valign="top">
 
-> ⚠️ Every repository mirrors **real industry scenarios** — not toy demos.
+### 📚 01 · Learning Platform
+![](https://img.shields.io/badge/PILLAR-01-1847c8?style=flat-square&labelColor=0f1e35)
 
----
+Structured courses, blogs & real-world projects spanning DevOps, Cloud, AI/ML, Security & Data Engineering.
 
-## 🎓 Learning Tracks & Roadmaps  
+`DevOps` `Cloud` `AI/ML` `Security`
 
-- 🚀 100 Days of DevOps  
-- ☁️ 100 Days of Azure  
-- 🐍 100 Days of Python  
-- ☸️ 100 Days of Kubernetes  
-- 🤖 AI / ML Engineer Roadmap  
-- 🏗️ Cloud Architect Roadmap  
-- 🔧 Senior DevOps Engineer Roadmap  
+</td>
+<td width="33%" valign="top">
 
----
+### 🏢 02 · Tech Consulting
+![](https://img.shields.io/badge/PILLAR-02-7c3aed?style=flat-square&labelColor=0f1e35)
 
-## 🌍 Achievements & Global Impact  
+Corporate training, upskilling, POCs, benchmarking & architecture guidance for enterprises.
 
-- 🌐 **2.4M+ learners worldwide**  
-- 🗺️ **Community across 103 countries**  
-- 📦 **Hundreds of real-time projects**  
-- 👨‍💻 **Thousands of contributors**  
-- 🎓 **Mentorship-driven growth**  
-- 🚀 **One of the fastest-growing tech learning ecosystems**  
+`POCs` `Architecture` `Upskilling`
 
----
+</td>
+<td width="33%" valign="top">
 
-# 🌐 Leadership & Mentors Network  
+### 🌐 03 · Community & Events
+![](https://img.shields.io/badge/PILLAR-03-10b981?style=flat-square&labelColor=0f1e35)
 
-CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engineering leaders**.
+Workshops, meetups, hackathons, webinars & mentorship programmes worldwide.
 
----
+`Hackathons` `Webinars` `Forums`
 
-## 🧠 Core Cloud & DevOps Mentors  
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
-| Name | Role |
-|-----|------|
-| [RISWAN RAJA A](https://www.linkedin.com/in/riswanrajacloud/) | CloudOps Engineer |
-| [Geetha S](https://www.linkedin.com/in/geethascloud/) | Azure Mentor |
-| [Raghavendra Ramesh](https://linkedin.com/in/raghavendracloud) | CI/CD Specialist |
-| [Bavithran M](https://www.linkedin.com/in/bavicnative/) | Founder & Architect |
-| [Pradnya Deshpande](https://www.linkedin.com/in/clouddevopswithpradnya/) | IaC Mentor |
-| [Rakshita Belwal](https://www.linkedin.com/in/rakshitabelwal/) | Cloud Practitioner |
-| [Manoj Savukar](https://www.linkedin.com/in/manojwithdevopsai) | DevOps + AI Mentor |
-| [Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/) | Senior DevOps Coach |
-| [Shruthi Chikkela](https://www.linkedin.com/in/learnwithshruthi/) | Hands-on Trainer |
-| [Arun Vaidyanathan](https://www.linkedin.com/in/arunvtechno/) | Cloud Migration Specialist |
-| [Subbareddy (Venkata) Vundela](https://www.linkedin.com/in/cloudbyvenkat/) | DevOps Architect |
-| [Vijesh Vijayan](https://www.linkedin.com/in/vjcloudops/) | Cloud Reliability Engineer |
-| [Infantus Godfrey](https://www.linkedin.com/in/infantusgodfrey/) | Cloud DevOps Engineer |
----
+### 💼 04 · Freelancing & Consulting
+![](https://img.shields.io/badge/PILLAR-04-f59e0b?style=flat-square&labelColor=0f1e35)
 
-## 🏗️ Cloud DevOps Solution Architects  
+Client projects, paid mentorship, advisory roles & service marketplace with 300+ ways to earn.
 
-| Name | Specialization |
-|----|----------------|
-| [RISWAN RAJA A](https://www.linkedin.com/in/riswanrajacloud/) | Solution Architecture |
-| [Raghavendra Ramesh](https://linkedin.com/in/raghavendracloud) | Cloud Strategy |
-| [Bavithran M](https://www.linkedin.com/in/bavicnative/) | Cloud Architecture |
-| [Arun Vaidyanathan](https://www.linkedin.com/in/arunvtechno/) | Migration Leadership |
-| [Subbareddy (Venkata) Vundela](https://www.linkedin.com/in/cloudbyvenkat/) | Platform Architecture |
-| [Vijesh Vijayan](https://www.linkedin.com/in/vjcloudops/) | Reliability Engineering |
+`Freelancing` `Advisory` `Marketplace`
 
----
+</td>
+<td width="33%" valign="top">
 
-## 🤖 Python & AI Leaders  
+### 👩‍💻 05 · Women Empowerment
+![](https://img.shields.io/badge/PILLAR-05-e11d8f?style=flat-square&labelColor=0f1e35)
 
-| Name | Focus Area |
-|----|-----------|
-| [Reshma S](https://www.linkedin.com/in/reshmawithai/) | AI Mentor |
-| [Kiruthiga Ravi](https://www.linkedin.com/in/aiwithkiruthiga/) | AI Engineer |
-| [Lavanya R](https://www.linkedin.com/in/iamlavanyar/) | Data Scientist |
-| [Anitha](https://www.linkedin.com/in/anidigitalhub/) | AI Educator |
-| [Dharshini Karthikeyan](https://www.linkedin.com/in/askdharshiniai/) | Data Mentor |
-| [Kruthica T](https://www.linkedin.com/in/kruthicawithai/) | Python Trainer |
-| [Swathipriya D.G](https://www.linkedin.com/in/swathi-priya-d-g-curious2upgrade/) | AI Engineer |
-| [Jenefer Rexee George](https://www.linkedin.com/in/jenwithai/) | NLP Specialist |
-| [Charisma Devi Polothu](https://www.linkedin.com/in/charismawithai/) | ML Practitioner |
-| [Tejaswini Muralikrishnan](https://www.linkedin.com/in/llmwithteja/) | Data Educator |
-| [Tanisha R A](https://www.linkedin.com/in/tanisharajesh/) | AI Passionate Leader |
-| [Gayathri P](https://www.linkedin.com/in/gayuwithai/) | AI Engineer |
-| [Daisy Grace Thomas](https://www.linkedin.com/in/daisy-grace-thomas-38034b189/) | AI Engineer |
-| [Kalaiselvi Kanagaraj](https://www.linkedin.com/in/kalaiselvi-kanagaraj-aa12a278/) | AI Engineer |
-| [Jyoshika Reddy](https://www.linkedin.com/in/jyoshika12/) | AI Engineer |
-| [Bhavvya Yavanthika](https://www.linkedin.com/in/bhavvya-yavanthika-64172332b/) | AI Engineer |
-| [Amritha Jayakumar](https://www.linkedin.com/in/amrithajkumar/) | AI Engineer |
-| [Josmy Mathew](https://www.linkedin.com/in/josmymathew/) | AI Engineer |
-| [Archana Jagannathan](https://www.linkedin.com/in/archana-jnathan/) | AI Engineer |
-| [Monisha Gangadhareshwara](https://www.linkedin.com/in/learnwithmona/) | AI Engineer |
----
+**SheLeads Digital** — dedicated learning tracks, leadership mentorship & remote earning support.
+
+`SheLeads` `Leadership` `Remote`
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 06 · SaaS Partnerships
+![](https://img.shields.io/badge/PILLAR-06-0ea5e9?style=flat-square&labelColor=0f1e35)
+
+Product demos, POCs, beta testing & dev workshops. Reach 2.4M+ tech professionals.
+
+`Brand Ambassadors` `Beta` `Demos`
+
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+
+### 🎯 07 · Hiring & Recruitment Network
+![](https://img.shields.io/badge/PILLAR-07-1847c8?style=flat-square&labelColor=0f1e35)
+
+Job opportunities, contract work & a recruiter partner network connecting learners with real industry opportunities.
+
+`Jobs` `Contracts` `Talent Network` `Placement`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ☁️ Salesforce Experts  
+## 🛠️ Technology Stack
 
-| Name | Expertise |
-|----|----------|
-| [Komala](https://www.linkedin.com/in/komalasalesforce/) | Salesforce Architect & CRM Expert |
+<div align="center">
 
----
-## ☁️ IOS Developer
+**☁️ Cloud**
 
-| Name | Expertise |
-|----|----------|
-| [Dharmalingam Shanmugam](https://www.linkedin.com/in/jyoshika12/) | IOS AI Developer |
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
-## ☁️ FullStack Developers  
+**⚙️ DevOps & CI/CD**
 
-| Name | Expertise |
-|----|----------|
-| [Minithra S](https://www.linkedin.com/in/minithras/) | FullStack Developer |
-| [Pradeepa Chandrasekaran](https://www.linkedin.com/in/pradeepafsd/) | FullStack Developer |
-| [Ankit Saw](https://www.linkedin.com/in/ankitsawdev) | FullStack Developer |
-| [Naveen .G.R](https://www.linkedin.com/in/navixgr/) | FullStack Developer |
-| [Sasikumar S](https://www.linkedin.com/in/sasikumarstyle/) | Senior FullStack Developer |
----
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-## ☁️ Telecom Product leader  
+**🏗️ IaC**
 
-| Name | Expertise |
-|----|----------|
-| [Kapil Lakhanpal](https://www.linkedin.com/in/kl5gnexus/) | Chief Product Officer (CPO) in a Tech or Telecom organization |
-| [Srinivas Thulasiram](www.linkedin.com/in/srinivas-t-413bba23) | AI Telecom Leader |
----
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
+**🐳 Containers & Kubernetes**
 
-## ☁️ SAAS Product Owner  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-| Name | Expertise |
-|----|----------|
-| [Navdeep Kaur](https://www.linkedin.com/in/leadwithnav/) | Cloud Native Solutions |
-| [Raghavendra Ramesh](https://linkedin.com/in/raghavendracloud) | Cloud Strategy |
----
+**🤖 AI / ML**
 
-## 👩‍💼 Co-Founders & Community Leads  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-| Name | Responsibility |
-|----|----------------|
-| [Siva Sankari](https://www.linkedin.com/in/learnwithsankari/) | Co-Founder |
-| [Sonali Kurade](https://www.linkedin.com/in/techopsbysonali/) | Co-Founder |
-| [Anitha](https://www.linkedin.com/in/anidigitalhub/) | AI Educator & Community Co-Lead |
+</div>
 
 ---
 
-## 🌐 Connect & Collaborate  
+## 🧠 Mentor Network
 
-🔗 **LinkedIn Company**  
-https://www.linkedin.com/company/careerbytecode  
+| Category | Count |
+|----------|:-----:|
+| 🧠 Core Cloud & DevOps Mentors | 13 |
+| 🏗️ Cloud DevOps Solution Architects | 6 |
+| 🤖 Python & AI Leaders | 20 |
+| ☁️ Salesforce Experts | 1 |
+| 📱 iOS Developers | 1 |
+| 🌐 FullStack Developers | 5 |
+| 📡 Telecom Product Leaders | 2 |
 
-📰 **Newsletter**  
-https://careerbytecode.substack.com  
-
-💻 **GitHub Organization**  
-https://github.com/careerbytecode  
-
-📺 **YouTube**  
-https://youtube.com/@CareerByteCode  
-
-✍️ **Medium**  
-https://medium.com/careerbytecode  
+> 👉 [View all mentors with LinkedIn profiles →](https://careerbytecode.github.io/#mentors)
 
 ---
 
-## 🚀 Join the CareerByteCode Movement  
+## 🎁 Grow as a Leader — Join Our Internal Team!
 
-At CareerByteCode, we don’t just teach tech — **we create leaders** 🌟  
-Learn with real projects. Build visibility. Grow with mentors. Lead globally.
+| Perk | Details |
+|------|---------|
+| 🎖️ **Verified Digital Leader Badge** | Flaunt it on LinkedIn & your resume |
+| 🌍 **Global Reach** | Be seen across 105+ countries by 2.4M+ learners |
+| 🆓 **Full Free Platform Access** | Real-time projects, events & training resources |
+| 📈 **Follower Growth & Branding** | Boost your visibility globally |
+| 💸 **Passive Earning Opportunities** | 37+ earning services on the platform |
+| 🤝 **Leaders Circle Entry** | Private network of high-impact mentors |
 
----
+<div align="center">
 
+### 💬 Ready to Join? Speak to our Director!
 
-# Become Freelancer and Earn
+[![Talk to Sangeetha](https://img.shields.io/badge/💬%20Connect%20with%20Sangeetha-Director%2C%20CareerByteCode-1847c8?style=for-the-badge&labelColor=0a1628)](https://www.linkedin.com/in/careerbytecode)
 
-## 🌍 Why Join the CareerByteCode Leadership Network
-
-> **“Join a global movement of innovators, educators, and change-makers — where leadership meets limitless opportunity.”**
-
-| 💎 Opportunity | 🚀 What You Gain |
-|----------------|------------------|
-| 🤝 **Consultancy Collaborations** | Gain hands-on exposure to real-world consulting and client projects through our partner network. |
-| 💼 **Product Company Collaborations** | Collaborate with fast-growing startups and enterprise tech companies on strategic initiatives. |
-| 🎙️ **Founder Podcasts** | Get featured in our global podcast series — share your story, inspire thousands, and build authority. |
-| 🎓 **Training Opportunities** | Deliver live or recorded training sessions under the official CareerByteCode brand. |
-| 📚 **Catalog Sales** | Monetize your skillset by publishing and selling your own course materials. |
-| 📝 **Consulting Gigs** | Take up mentorship, freelancing, or consulting projects directly through CareerByteCode’s ecosystem. |
-| 🔄 **Reseller Partnerships** | Build your income stream by onboarding trainers, institutes, or partners into our platform. |
-| 🏫 **University Tie-Ups** | Conduct academic sessions, workshops, and bootcamps under official CBC alliances. |
-| 🧑‍💼 **Recruitment Connections** | Access top recruiters, hiring partners, and industry referrals for career growth. |
-| 🌍 **Global Speaker Opportunities** | Represent CareerByteCode at international tech events, summits, and leadership panels. |
-| 📍 **Local Tech Events** | Host and lead CareerByteCode community chapters and local meetups in your region. |
-| 💎 **Free Platform Access (Worth ₹1 Lakh)** | Exclusive access to premium CareerByteCode tools, templates, training assets, and resources — empowering you to create, teach, and scale faster. |
+</div>
 
 ---
 
-## 🏁 Final Outcome
+## 👩‍💼 Founding Team
 
-After completing this onboarding plan, you will:
-
-✅ Build a **personal brand identity** recognized across platforms  
-✅ Get certified as a **CareerByteCode Digital Leader**  
-✅ Access **collaborations, podcasts, and consulting opportunities**  
-✅ Join a **global ecosystem** of mentors, creators, and innovators  
-
-
-
-# CareerByteCode Freelancer – Role & Growth Overview
-
-## ❓ Question
-**Thank you, but may I know what would be my role as a freelancer, and what are your requirements?**
+| Name | Role | Location | LinkedIn |
+|------|------|----------|----------|
+| Raghavendra R | Platform Owner | 🇧🇪 Belgium | [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/raghavendracloud) |
+| Sonali Kurade | Co-Founder | 🇮🇳 Pune, India | [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/techopsbysonali/) |
+| Siva Sankari | Co-Founder | 🇸🇬 Singapore | [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/learnwithsankari/) |
+| Anitha D | Co-Founder | 🇮🇳 Tirupur, India | [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anidigitalhub/) |
 
 ---
 
-## ✅ Answer
+## 🌐 Connect & Collaborate
 
-Thank you for the question 🙌  
-Happy to clarify.
+<div align="center">
 
-As a **CareerByteCode Freelancer / Partner**, your role is **flexible, skill-driven, and growth-oriented**. You are not restricted to a single responsibility — you choose how you want to **contribute, grow, and earn** within our ecosystem.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company%20Page-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/careerbytecode)
+[![GitHub](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/careerbytecode)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@CareerByteCode)
+[![Newsletter](https://img.shields.io/badge/Substack-Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://careerbytecode.substack.com)
+[![Medium](https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/careerbytecode)
+[![Website](https://img.shields.io/badge/Website-careerbytecode.com-1847c8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.careerbytecode.com)
 
----
+<br/>
 
-## 🚀 What You Can Do
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628,1847c8,0ea5e9&height=120&section=footer&text=We%20don't%20just%20teach%20tech%20—%20we%20create%20leaders%20🌟&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
-🚀 Work on **paid consulting or real-world client projects**  
-🎓 Deliver **live or recorded training sessions** under the CareerByteCode brand  
-🛠️ Collaborate on **product development, POCs, and solution-building initiatives**  
-🎤 Participate as a **speaker, podcast guest, or community leader**  
-📚 Create **content, courses, learning material, or mentorship programs**
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=careerbytecode.careerbytecode&left_color=0a1628&right_color=1847c8&left_text=Profile%20Views)
 
-⏰ No fixed working hours — opportunities align with your **availability and expertise**.
+*© 2015–2025 CareerByteCode · Learn. Build. Collaborate. Earn.*
 
----
-
-## 💰 Earning Opportunities
-
-💼 Earn from **consulting and freelancing gigs**  
-🎓 Get **revenue share from trainings and workshops**  
-📦 Generate income through **course and catalog sales**  
-🧑‍🏫 Offer **1:1 mentorship and guidance programs**  
-🔄 Receive **reseller and partner onboarding commissions**  
-🌍 Access **paid speaking engagements and global events**
-
-Many freelancers start with one opportunity and grow into **recurring income streams and leadership roles**.
-
----
-
-## 📈 Growth & Visibility
-
-🌍 Global visibility across **103+ countries**  
-⭐ Build strong **personal brand and professional authority**  
-🤝 Connect with **founders, recruiters, startups, and enterprises**  
-💎 Get **free access to premium CareerByteCode tools and assets (worth ₹1 Lakh)**  
-🚀 Opportunity to evolve into a **Core Partner or Regional Leader**
-
----
-
-## ✅ What We Expect From You
-
-🧠 Strong expertise in your domain  
-🤝 A professional and collaborative mindset  
-🔥 Willingness to share knowledge and create impact  
-🌱 Interest in long-term learning, leadership, and growth  
-
----
-
-## 🌟 Final Note
-
-CareerByteCode is not just a platform — it is a **global growth ecosystem** where freelancers evolve into **consultants, trainers, leaders, and global voices**.
-
-If you’re looking to **earn, grow, and build long-term influence**, this ecosystem is designed for you 🚀  
-
-Happy to discuss how your skills fit best.
-
-
-
-
-## 🤝 Want to Partner, Teach, or Join as a Mentor?
-
-```text
-Hi CareerByteCode,
-I’m [Your Name] and I’m interested in partnering / mentoring.
-
-Domain: Cloud / DevOps / AI / Full Stack / Salesforce
-Location: City, Country
-Availability: Weekdays / Weekends / Timezone
+</div>
