@@ -168,7 +168,12 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | [Gayathri P](https://www.linkedin.com/in/gayuwithai/) | AI Engineer |
 | [Daisy Grace Thomas](https://www.linkedin.com/in/daisy-grace-thomas-38034b189/) | AI Engineer |
 | [Kalaiselvi Kanagaraj](https://www.linkedin.com/in/kalaiselvi-kanagaraj-aa12a278/) | AI Engineer |
-
+| [Jyoshika Reddy](https://www.linkedin.com/in/jyoshika12/) | AI Engineer |
+| [Bhavvya Yavanthika](https://www.linkedin.com/in/bhavvya-yavanthika-64172332b/) | AI Engineer |
+| [Amritha Jayakumar](https://www.linkedin.com/in/amrithajkumar/) | AI Engineer |
+| [Josmy Mathew](https://www.linkedin.com/in/josmymathew/) | AI Engineer |
+| [Archana Jagannathan](https://www.linkedin.com/in/archana-jnathan/) | AI Engineer |
+| [Monisha Gangadhareshwara](https://www.linkedin.com/in/learnwithmona/) | AI Engineer |
 ---
 
 ---
@@ -179,6 +184,12 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 |----|----------|
 | [Komala](https://www.linkedin.com/in/komalasalesforce/) | Salesforce Architect & CRM Expert |
 
+---
+## ☁️ IOS Developer
+
+| Name | Expertise |
+|----|----------|
+| [Dharmalingam Shanmugam](https://www.linkedin.com/in/jyoshika12/) | IOS AI Developer |
 
 ---
 ## ☁️ FullStack Developers  
@@ -197,7 +208,7 @@ CareerByteCode is powered by a **global network of Cloud, DevOps, AI, and Engine
 | Name | Expertise |
 |----|----------|
 | [Kapil Lakhanpal](https://www.linkedin.com/in/kl5gnexus/) | Chief Product Officer (CPO) in a Tech or Telecom organization |
-
+| [Srinivas Thulasiram](www.linkedin.com/in/srinivas-t-413bba23) | AI Telecom Leader |
 ---
 
 
